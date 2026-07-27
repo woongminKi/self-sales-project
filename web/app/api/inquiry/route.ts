@@ -5,6 +5,7 @@ type InquiryPayload = {
   org?: string;
   phone?: string;
   email?: string;
+  tier?: string;
   need?: string;
   budget?: string;
   message?: string;
@@ -44,6 +45,7 @@ export async function POST(request: Request) {
 
   const org = body.org?.trim() ?? "";
   const email = body.email?.trim() ?? "";
+  const tier = body.tier?.trim() ?? "";
   const need = body.need?.trim() ?? "";
   const budget = body.budget?.trim() ?? "";
   const message = body.message?.trim() ?? "";
@@ -57,6 +59,7 @@ export async function POST(request: Request) {
       org,
       phone,
       email,
+      tier,
       need,
       budget,
       message,
@@ -69,6 +72,7 @@ export async function POST(request: Request) {
     ["상호/기관명", org || "-"],
     ["연락처", phone],
     ["이메일", email || "-"],
+    ["관심 상품", tier || "-"],
     ["필요한 것", need || "-"],
     ["예산대", budget || "-"],
     ["내용", message || "-"],

@@ -1,8 +1,11 @@
 const steps = [
-  { title: "무료 상담", desc: "15분" },
-  { title: "기획·견적 확정", desc: "요구사항 정리" },
-  { title: "제작", desc: "주간 진행 공유" },
-  { title: "오픈·검수", desc: "7일 검수 후 인수인계" },
+  { title: "상담", desc: "구현 전 원하는 내용에 대해 명확하게 알아가는 시간" },
+  { title: "기획·견적 확정", desc: "내용을 구체화하고 작업 관련한 안내 및 비용 책정" },
+  { title: "제작", desc: "실질적인 개발 단계이며, 진행 상황을 매일 공유" },
+  {
+    title: "QA 및 오픈",
+    desc: "오픈 전 검수 단계이며, 요구사항이 잘 반영됐는지 확인. 오픈 후 유지, 보수 진행",
+  },
 ];
 
 export default function Process() {
@@ -41,6 +44,9 @@ export default function Process() {
             </div>
           ))}
         </div>
+        <p className="mt-8 text-center text-xs text-slate-400">
+          * 계약에 따라 기간은 상이할 수 있습니다
+        </p>
       </div>
     </section>
   );

@@ -1,8 +1,11 @@
 "use client";
 
-import { useState, type FormEvent } from "react";
+import { useEffect, useState, type FormEvent } from "react";
+import { TIER_SELECT_EVENT } from "./Pricing";
 
 type Status = "idle" | "submitting" | "success" | "error";
+
+const TIER_OPTIONS = ["라이트", "스탠다드", "프리미엄"];
 
 const NEED_OPTIONS = [
   "홈페이지 신규",
@@ -24,6 +27,16 @@ const inputClass =
 export default function InquiryForm() {
   const [status, setStatus] = useState<Status>("idle");
   const [fieldError, setFieldError] = useState<string | null>(null);
+  const [tier, setTier] = useState("");
+
+  useEffect(() => {
+    function handleTierSelect(e: Event) {
+      const detail = (e as CustomEvent<string>).detail;
+      setTier(detail ?? "");
+    }
+    window.addEventListener(TIER_SELECT_EVENT, handleTierSelect);
+    return () => window.removeEventListener(TIER_SELECT_EVENT, handleTierSelect);
+  }, []);
 
   async function handleSubmit(e: FormEvent<HTMLFormElement>) {
     e.preventDefault();
@@ -45,6 +58,7 @@ export default function InquiryForm() {
       org: String(data.get("org") ?? "").trim(),
       phone,
       email: String(data.get("email") ?? "").trim(),
+      tier: String(data.get("tier") ?? "").trim(),
       need: String(data.get("need") ?? "").trim(),
       budget: String(data.get("budget") ?? "").trim(),
       message: String(data.get("message") ?? "").trim(),
@@ -61,6 +75,7 @@ export default function InquiryForm() {
 
       if (res.ok && result.ok) {
         setStatus("success");
+        setTier("");
         form.reset();
       } else {
         setStatus("error");
@@ -167,6 +182,26 @@ export default function InquiryForm() {
                 placeholder="example@email.com"
               />
             </div>
+          </div>
+
+          <div>
+            <label htmlFor="tier" className="text-sm font-medium text-slate-700">
+              관심 상품
+            </label>
+            <select
+              id="tier"
+              name="tier"
+              value={tier}
+              onChange={(e) => setTier(e.target.value)}
+              className={inputClass}
+            >
+              <option value="">선택 안 함</option>
+              {TIER_OPTIONS.map((opt) => (
+                <option key={opt} value={opt}>
+                  {opt}
+                </option>
+              ))}
+            </select>
           </div>
 
           <div className="grid gap-5 sm:grid-cols-2">

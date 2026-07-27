@@ -3,7 +3,7 @@ export default function SiteHeader() {
     <header className="sticky top-0 z-50 border-b border-slate-100 bg-white/80 backdrop-blur">
       <div className="mx-auto flex max-w-6xl items-center justify-between px-6 py-4">
         <span className="text-lg font-bold tracking-tight text-slate-900">
-          기획하는 개발자
+          웅쓰컴퍼니
         </span>
         <a
           href="#inquiry"
