@@ -1,5 +1,6 @@
 import SiteHeader from "@/components/SiteHeader";
 import Hero from "@/components/Hero";
+import Problems from "@/components/Problems";
 import WhyMe from "@/components/WhyMe";
 import Portfolio from "@/components/Portfolio";
 import Pricing from "@/components/Pricing";
@@ -14,6 +15,7 @@ export default function Home() {
       <SiteHeader />
       <main className="flex-1">
         <Hero />
+        <Problems />
         <WhyMe />
         <Portfolio />
         <Pricing />

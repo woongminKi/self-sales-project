@@ -86,23 +86,21 @@ export default function Pricing() {
                 className={`relative flex cursor-pointer flex-col rounded-2xl border p-8 text-left transition ${
                   isSelected
                     ? "border-blue-600 bg-white shadow-lg shadow-blue-100 ring-2 ring-blue-600"
-                    : tier.highlight
-                      ? "border-blue-600 bg-white shadow-lg shadow-blue-100 ring-1 ring-blue-600"
-                      : "border-slate-200 bg-slate-50/60"
+                    : "border-slate-200 bg-slate-50/60"
                 }`}
               >
-                {tier.highlight && !isSelected && (
-                  <span className="absolute -top-3.5 left-1/2 -translate-x-1/2 rounded-full bg-blue-600 px-4 py-1 text-xs font-semibold text-white">
-                    가장 많이 선택
-                  </span>
-                )}
                 {isSelected && (
                   <span className="absolute -top-3.5 right-4 rounded-full bg-blue-600 px-4 py-1 text-xs font-semibold text-white">
                     선택됨
                   </span>
                 )}
-                <h3 className="text-lg font-semibold text-slate-900">
+                <h3 className="flex items-center gap-2 text-lg font-semibold text-slate-900">
                   {tier.name}
+                  {tier.highlight && (
+                    <span className="rounded-full bg-blue-600 px-2.5 py-0.5 text-xs font-semibold text-white">
+                      가장 많이 선택
+                    </span>
+                  )}
                 </h3>
                 <p className="mt-2 text-2xl font-bold text-slate-900">
                   {tier.price}

@@ -14,12 +14,13 @@ export default function Hero() {
           기획 · 마케팅 · 개발을 한 사람이
         </span>
         <h1 className="max-w-3xl text-4xl font-bold leading-tight tracking-tight text-slate-900 sm:text-5xl">
-          기획부터 함께하는
+          매출로 이어지는
           <br className="hidden sm:block" /> 웹·앱 제작
         </h1>
         <p className="mt-6 max-w-2xl text-lg leading-relaxed text-slate-600">
-          기획 → 마케팅 → 개발까지 직접 해온 1인 파트너가 상담부터 오픈까지
-          책임집니다. AI 제작 워크플로우로 에이전시 절반의 기간에.
+          문의가 늘지 않는 홈페이지, 검색해도 안 나오는 가게, 자꾸 늦어지는
+          서비스 출시 — 원인부터 진단하고, 기획·마케팅·개발을 한 사람이
+          끝까지 해결합니다. AI 제작 워크플로우로 에이전시 절반의 기간에.
         </p>
         <div className="mt-10 flex flex-col gap-4 sm:flex-row">
           <a
