@@ -5,9 +5,8 @@ type InquiryPayload = {
   org?: string;
   phone?: string;
   email?: string;
+  homepage?: string; // 점검 대상 주소 — 리포트 작성에 필요
   tier?: string;
-  need?: string;
-  budget?: string;
   message?: string;
   company?: string; // honeypot — real users leave this empty
 };
@@ -45,9 +44,8 @@ export async function POST(request: Request) {
 
   const org = body.org?.trim() ?? "";
   const email = body.email?.trim() ?? "";
+  const homepage = body.homepage?.trim() ?? "";
   const tier = body.tier?.trim() ?? "";
-  const need = body.need?.trim() ?? "";
-  const budget = body.budget?.trim() ?? "";
   const message = body.message?.trim() ?? "";
 
   const apiKey = process.env.RESEND_API_KEY;
@@ -59,9 +57,8 @@ export async function POST(request: Request) {
       org,
       phone,
       email,
+      homepage,
       tier,
-      need,
-      budget,
       message,
     });
     return NextResponse.json({ ok: false, reason: "not_configured" });
@@ -69,12 +66,11 @@ export async function POST(request: Request) {
 
   const rows: [string, string][] = [
     ["성함", name],
-    ["상호/기관명", org || "-"],
+    ["의원/기관명", org || "-"],
     ["연락처", phone],
     ["이메일", email || "-"],
-    ["관심 상품", tier || "-"],
-    ["필요한 것", need || "-"],
-    ["예산대", budget || "-"],
+    ["홈페이지", homepage || "-"],
+    ["관심 구성", tier || "-"],
     ["내용", message || "-"],
   ];
 
@@ -99,7 +95,7 @@ export async function POST(request: Request) {
       body: JSON.stringify({
         from: "onboarding@resend.dev",
         to: toEmail,
-        subject: `[견적문의] ${org || "무기명"} - ${name}`,
+        subject: `[무료점검] ${org || "무기명"} - ${name}`,
         html,
       }),
     });

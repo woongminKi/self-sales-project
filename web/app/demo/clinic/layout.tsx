@@ -15,5 +15,11 @@ export default function ClinicDemoLayout({
 }: Readonly<{
   children: React.ReactNode;
 }>) {
-  return <div className="bg-white text-slate-900">{children}</div>;
+  // id는 globals.css의 body:has(#clinic-demo) 셀렉터가 참조한다.
+  // 본 사이트는 다크, 이 데모는 실제 의원 사이트를 흉내내는 라이트 테마로 분리한다.
+  return (
+    <div id="clinic-demo" className="min-h-screen bg-white text-slate-900">
+      {children}
+    </div>
+  );
 }

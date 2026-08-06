@@ -4,7 +4,17 @@ html {
   scroll-behavior: smooth;
 }
 
+/*
+  레이어 밖 엘리먼트 셀렉터라 Tailwind 유틸리티(cascade layer 내부)보다 우선한다.
+  layout.tsx의 body 클래스만 바꾸면 여기에 덮여 배경이 흰색으로 남으므로 함께 관리한다.
+*/
 body {
+  background: #0b1220;
+  color: #cbd5e1;
+}
+
+/* 데모 페이지는 실제 의원 사이트를 흉내내는 밝은 테마라 별도로 유지한다 */
+body:has(#clinic-demo) {
   background: #ffffff;
   color: #0f172a;
 }

@@ -1,41 +1,53 @@
 export default function Hero() {
   return (
-    <section className="relative overflow-hidden bg-gradient-to-b from-blue-50 via-white to-white">
+    <section id="top" className="relative overflow-hidden px-6">
       <div
         aria-hidden
-        className="pointer-events-none absolute -top-24 right-[-10%] h-72 w-72 rounded-full bg-blue-200/40 blur-3xl"
+        className="pointer-events-none absolute left-1/2 top-0 h-[420px] w-[720px] -translate-x-1/2 rounded-full bg-sky-500/10 blur-[120px]"
       />
-      <div
-        aria-hidden
-        className="pointer-events-none absolute -bottom-32 left-[-10%] h-72 w-72 rounded-full bg-blue-100/60 blur-3xl"
-      />
-      <div className="relative mx-auto flex max-w-6xl flex-col items-center px-6 py-24 text-center md:py-32">
-        <span className="mb-6 inline-flex items-center rounded-full bg-blue-100 px-4 py-1.5 text-sm font-medium text-blue-700">
-          기획 · 마케팅 · 개발을 한 사람이
+      {/*
+        자백 → 전환이 모바일 첫 화면(약 690px) 안에서 끝나야 한다.
+        스크롤이 필요해지면 자백만 읽히고 해결이 안 읽힌다.
+      */}
+      <div className="relative mx-auto flex max-w-3xl flex-col items-center py-20 text-center sm:py-28">
+        <span className="text-[11px] font-medium uppercase tracking-[0.22em] text-sky-300/80">
+          병원 · 의원 홈페이지
         </span>
-        <h1 className="max-w-3xl text-4xl font-bold leading-tight tracking-tight text-slate-900 sm:text-5xl">
-          매출로 이어지는
-          <br className="hidden sm:block" /> 웹·앱 제작
+
+        <h1 className="mt-5 text-[28px] font-bold leading-[1.3] tracking-tight text-white sm:text-5xl sm:leading-[1.2]">
+          홈페이지를 새로 만들면
+          <br />
+          환자가 늘어날까요?
         </h1>
-        <p className="mt-6 max-w-2xl text-lg leading-relaxed text-slate-600">
-          문의가 늘지 않는 홈페이지, 검색해도 안 나오는 가게, 자꾸 늦어지는
-          서비스 출시 — 원인부터 진단하고, 기획·마케팅·개발을 한 사람이
-          끝까지 해결합니다. AI 제작 워크플로우로 에이전시 절반의 기간에.
+
+        <p className="mt-5 text-[15px] leading-relaxed text-slate-400 sm:mt-6 sm:text-lg">
+          이 질문에 답할 수 있게 만드는 것이 제 일입니다.
         </p>
-        <div className="mt-10 flex flex-col gap-4 sm:flex-row">
+
+        <p className="mt-5 max-w-xl text-sm leading-relaxed text-slate-500 sm:text-base">
+          제가 처음 만든 홈페이지에는 성과를 세는 장치를 넣지 않았습니다. 사이트는
+          새로 됐지만 <span className="text-slate-400">원장님도, 저도 효과를 몰랐습니다.</span>
+          <br className="hidden sm:block" /> 지금은 그렇게 하지 않습니다.
+        </p>
+
+        <div className="mt-9 flex w-full flex-col gap-3 sm:w-auto sm:flex-row">
           <a
             href="#inquiry"
-            className="rounded-full bg-blue-600 px-8 py-3.5 text-base font-semibold text-white shadow-sm shadow-blue-200 transition hover:bg-blue-700"
+            className="rounded-full bg-white px-7 py-3.5 text-[15px] font-semibold text-[#0b1220] transition hover:bg-slate-200"
           >
-            견적 문의하기
+            무료 점검 받기
           </a>
           <a
-            href="#portfolio"
-            className="rounded-full border border-slate-300 px-8 py-3.5 text-base font-semibold text-slate-700 transition hover:border-slate-400 hover:bg-slate-50"
+            href="/demo/clinic"
+            className="rounded-full border border-white/15 bg-white/5 px-7 py-3.5 text-[15px] font-medium text-white transition hover:border-white/30 hover:bg-white/10"
           >
-            제작 사례 보기
+            제작 예시 보기
           </a>
         </div>
+
+        <p className="mt-5 text-xs text-slate-600">
+          점검만 받고 진행하지 않으셔도 됩니다
+        </p>
       </div>
     </section>
   );
