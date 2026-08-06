@@ -5,9 +5,8 @@
  * 정보통신망법 제50조의2가 문제 삼는 것이 "프로그램·기술적 장치로 이메일 수집"이므로,
  * KISA 유권해석을 받기 전까지 자동 추출을 늘리지 않는다. 이메일은 사람이 페이지를 열어 확인한다.
  */
-const puppeteer = require(
-  '/Users/kiwoongmin/Desktop/documents/test-repo/image2/piLab/project/catharsis/catharsis-frontend/node_modules/puppeteer'
-);
+const { resolvePuppeteer, launchOptions } = require('./lib/browser');
+const puppeteer = resolvePuppeteer();
 
 const SITES = process.argv.slice(2);
 if (!SITES.length) {
@@ -16,10 +15,7 @@ if (!SITES.length) {
 }
 
 (async () => {
-  const browser = await puppeteer.launch({
-    headless: 'new',
-    args: ['--no-sandbox', '--disable-setuid-sandbox'],
-  });
+  const browser = await puppeteer.launch(launchOptions());
 
   for (const url of SITES) {
     const row = { url, ssl: '?', http: '?', viewport: '?', tel: '?', privacy: '?', year: '?' };

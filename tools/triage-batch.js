@@ -14,9 +14,8 @@
  */
 const fs = require('fs');
 const path = require('path');
-const puppeteer = require(
-  '/Users/kiwoongmin/Desktop/documents/test-repo/image2/piLab/project/catharsis/catharsis-frontend/node_modules/puppeteer'
-);
+const { resolvePuppeteer, launchOptions } = require('./lib/browser');
+const puppeteer = resolvePuppeteer();
 
 const ROOT = path.resolve(__dirname, '..');
 const IN_CSV = path.join(ROOT, 'docs/leads/clinics-derma-with-homepage.csv');
@@ -142,10 +141,7 @@ async function inspect(browser, url) {
 
 // ---------- 실행 루프 ----------
 (async () => {
-  const browser = await puppeteer.launch({
-    headless: 'new',
-    args: ['--no-sandbox', '--disable-setuid-sandbox'],
-  });
+  const browser = await puppeteer.launch(launchOptions());
   const out = fs.createWriteStream(OUT, { flags: 'a' });
   let processed = 0;
   const started = Date.now();

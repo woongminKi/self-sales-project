@@ -1,3 +1,6 @@
 .DS_Store
 .omc/
 .gstack/
+
+# 이메일 수집 이어받기 캐시 — 커밋하면 다른 컴퓨터에서 "이미 완료"로 오판한다
+docs/leads/.email-collect-progress.jsonl
