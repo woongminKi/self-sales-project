@@ -1,0 +1,72 @@
+판정,요양기관명,시도,시군구,전화,등록홈페이지,살아있는주소,후크,문의폼,카카오채널,방침페이지,검증일
+CONFIRMED,일산이지함피부과의원,경기,고양일산서구,031-916-5300,http://www.ljh.co.kr/sub01_05_06_02.php,,"홈페이지 접속 불가 — HTTP 400 오류. www·apex, http·https 4가지 경로 모두 실패",0,,,2026-08-06
+CONFIRMED,조은피부과의원,경기,과천시,02-503-3118,http://www.joeunskin.co.kr/,,"홈페이지 접속 불가 — HTTP 522 오류. www·apex, http·https 4가지 경로 모두 실패",0,,,2026-08-06
+CONFIRMED,미소가인피부과의원,경기,김포시,031-989-5071,http://www.misogain.co.kr/intro/kimpo/map.jsp,,"홈페이지 접속 불가 — HTTP 404 오류. www·apex, http·https 4가지 경로 모두 실패",0,,,2026-08-06
+CONFIRMED,우리들가정의원,경기,부천원미구,032-342-0147,http://www.our-clinic.co.kr/,,"홈페이지 접속 불가 — HTTP 404 오류. www·apex, http·https 4가지 경로 모두 실패",0,,,2026-08-06
+CONFIRMED,참사랑 의료소비자생활협동조합 참사랑의원,경기,부천원미구,032-329-4475,http://www.gangnam-top.com/,,"홈페이지 접속 불가 — HTTP 403 오류. www·apex, http·https 4가지 경로 모두 실패",0,,,2026-08-06
+CONFIRMED,길맨비뇨기과의원,경기,성남분당구,783-8880,http://www.gilman.co.kr/sub/sub_list_05.php,,"홈페이지 접속 불가 — HTTP 404 오류. www·apex, http·https 4가지 경로 모두 실패",0,,,2026-08-06
+CONFIRMED,닥터지피부과의원,경기,성남분당구,031-705-4476,http://bd.yeinskin.com/,,"홈페이지 접속 불가 — HTTP 403 오류. www·apex, http·https 4가지 경로 모두 실패",0,,,2026-08-06
+CONFIRMED,구광모항외과의원,경기,수원팔달구,031-207-2111,http://www.sghang.com/index.asp,,"홈페이지 접속 불가 — HTTP 404 오류. www·apex, http·https 4가지 경로 모두 실패",0,,,2026-08-06
+CONFIRMED,연세비뇨기과의원,경기,시흥시,031-313-0111,http://yonseiuro.co.kr/,,"홈페이지 접속 불가 — HTTP 403 오류. www·apex, http·https 4가지 경로 모두 실패",0,,,2026-08-06
+CONFIRMED,하이맨비뇨기과의원,경기,안산단원구,031-410-7540,http://www.highman.co.kr/html/01_highman/highman_03.php?ppc=POS004,,"홈페이지 접속 불가 — HTTP 404 오류. www·apex, http·https 4가지 경로 모두 실패",0,,,2026-08-06
+CONFIRMED,안양피부과의원,경기,안양만안구,031-388-2561,http://www.anyangskin.co.kr/,,"홈페이지 접속 불가 — HTTP 403 오류. www·apex, http·https 4가지 경로 모두 실패",0,,,2026-08-06
+CONFIRMED,에스앤비의원,경기,안양만안구,031-465-7277,http://www.chandbeauty.com/index.asp,,"홈페이지 접속 불가 — HTTP 404 오류. www·apex, http·https 4가지 경로 모두 실패",0,,,2026-08-06
+CONFIRMED,서울외과의원,경기,이천시,633-1122,http://www.seoulop.kr/,,"홈페이지 접속 차단 — 보안 인증서 오류(ERR_CERT_DATE_INVALID). www·apex, http·https 4가지 경로 모두 실패",,,,2026-08-06
+CONFIRMED,제일비뇨기과의원,경기,평택시,031-657-1133,http://www.pjuro.com/main,,"홈페이지 접속 불가 — HTTP 404 오류. www·apex, http·https 4가지 경로 모두 실패",0,,,2026-08-06
+CONFIRMED,중앙신경외과의원,경기,포천시,031-533-7784,http://www.nsdrlee.co.kr/,,"홈페이지 접속 불가 — HTTP 404 오류. www·apex, http·https 4가지 경로 모두 실패",0,,,2026-08-06
+CONFIRMED,하나이비인후과의원,경기,화성동탄구,031-8015-0061,http://www.dthana.com/,,"홈페이지 접속 불가 — HTTP 403 오류. www·apex, http·https 4가지 경로 모두 실패",0,,,2026-08-06
+CONFIRMED,김태욱외과의원,서울,강남구,02-578-9881,http://www.tpclinic.net/index.asp,,"홈페이지 접속 불가 — HTTP 404 오류. www·apex, http·https 4가지 경로 모두 실패",0,,,2026-08-06
+CONFIRMED,닥터손유나의원,서울,강남구,02-3443-1117,http://yssynclinic.cafe24.com/www/index.php,,"홈페이지 접속 불가 — HTTP 404 오류. www·apex, http·https 4가지 경로 모두 실패",0,,,2026-08-06
+CONFIRMED,디유성형외과의원,서울,강남구,02-562-0507,https://www.duprs.com/,,"홈페이지 접속 불가 — HTTP 403 오류. www·apex, http·https 4가지 경로 모두 실패",0,,,2026-08-06
+CONFIRMED,마이어스의원,서울,강남구,02-544-4913,http://myers.co.kr/xe/index.php,,"홈페이지 접속 불가 — HTTP 404 오류. www·apex, http·https 4가지 경로 모두 실패",1,,,2026-08-06
+CONFIRMED,미파문피부과의원,서울,강남구,02-564-2065,http://mifamoon.com/moon/,,"홈페이지 접속 불가 — HTTP 404 오류. www·apex, http·https 4가지 경로 모두 실패",0,,,2026-08-06
+CONFIRMED,에스앤유김방순피부과의원,서울,강남구,3444-3939,http://www.snuclinic.co.kr/,,"홈페이지 접속 차단 — 보안 인증서 오류(ERR_CERT_COMMON_NAME_INVALID). www·apex, http·https 4가지 경로 모두 실패",,,,2026-08-06
+CONFIRMED,에프아이성형외과의원,서울,강남구,02-543-4766,http://paranps.cafe24.com/,,"홈페이지 접속 불가 — HTTP 403 오류. www·apex, http·https 4가지 경로 모두 실패",0,,,2026-08-06
+CONFIRMED,하늘느낌피부과의원,서울,강남구,02-511-8035,http://skyfeel.co.kr/index.asp,,"홈페이지 접속 불가 — HTTP 404 오류. www·apex, http·https 4가지 경로 모두 실패",0,,,2026-08-06
+CONFIRMED,기린비뇨의학과의원,서울,강동구,02-487-9200,http://www.gilman.co.kr/sub/sub_list_04.php,,"홈페이지 접속 불가 — HTTP 404 오류. www·apex, http·https 4가지 경로 모두 실패",0,,,2026-08-06
+CONFIRMED,라임의원,서울,강동구,02-442-2119,https://www.gd-lime.com/,,"홈페이지 접속 불가 — HTTP 404 오류. www·apex, http·https 4가지 경로 모두 실패",0,,,2026-08-06
+CONFIRMED,천호이지함피부과의원,서울,강동구,02-485-9700,http://ljh.co.kr/sub01_05_07_05.php,,"홈페이지 접속 불가 — HTTP 400 오류. www·apex, http·https 4가지 경로 모두 실패",0,,,2026-08-06
+CONFIRMED,미래소아청소년과의원,서울,강북구,02-987-7015,http://ansoa.mdrline.net/Module/DoctorInfo/DoctorInfo.asp,,"홈페이지 접속 불가 — HTTP 404 오류. www·apex, http·https 4가지 경로 모두 실패",0,,,2026-08-06
+CONFIRMED,김현영산부인과의원,서울,강서구,02-2699-5225,http://dryoung.or.kr/,,"홈페이지 접속 불가 — HTTP 403 오류. www·apex, http·https 4가지 경로 모두 실패",0,,,2026-08-06
+CONFIRMED,셀앤케이의원,서울,강서구,,https://www.cellnk.com/,,"홈페이지 접속 차단 — 보안 인증서 오류(ERR_CERT_COMMON_NAME_INVALID). www·apex, http·https 4가지 경로 모두 실패",,,,2026-08-06
+CONFIRMED,오라클피부과의원(화곡점),서울,강서구,02-2605-1175,http://www.skinland.com/sub10/_areaInfo.php?area=%EC%84%9C%EC%9A%B8%20%ED%99%94%EA%B3%A1%EC%A0%90,,"홈페이지 접속 불가 — HTTP 404 오류. www·apex, http·https 4가지 경로 모두 실패",0,,,2026-08-06
+CONFIRMED,삼성드림안과의원,서울,구로구,02-855-8301,http://www.dreameye.co.kr/,,"홈페이지 접속 불가 — HTTP 503 오류. www·apex, http·https 4가지 경로 모두 실패",0,,,2026-08-06
+CONFIRMED,성재의원,서울,구로구,02-2625-7533,http://sjclinic.com/,,"홈페이지 접속 불가 — HTTP 404 오류. www·apex, http·https 4가지 경로 모두 실패",0,,,2026-08-06
+CONFIRMED,연세닥터스내과의원,서울,금천구,02-862-8300,http://simonch1.drline.net/index.asp,,"홈페이지 접속 불가 — HTTP 404 오류. www·apex, http·https 4가지 경로 모두 실패",0,,,2026-08-06
+CONFIRMED,강북이지함피부과의원,서울,노원구,939-4700,http://www.ljh.co.kr/index.php,,"홈페이지 접속 불가 — HTTP 400 오류. www·apex, http·https 4가지 경로 모두 실패",0,,,2026-08-06
+CONFIRMED,에코이비인후과의원,서울,동작구,02-814-8899,http://www.eco-clinic.com/,,"홈페이지 접속 불가 — HTTP 404 오류. www·apex, http·https 4가지 경로 모두 실패",0,,,2026-08-06
+CONFIRMED,합정제이엠가정의학과의원,서울,마포구,02-2138-1174,https://www.scjm.co.kr/hapjeong/,,"홈페이지 접속 차단 — 보안 인증서 오류(ERR_CERT_DATE_INVALID). www·apex, http·https 4가지 경로 모두 실패",,,,2026-08-06
+CONFIRMED,미소가인피부과의원,서울,서초구,586-5100,http://www.misogain.co.kr/intro/bangbae/map.jsp,,"홈페이지 접속 불가 — HTTP 404 오류. www·apex, http·https 4가지 경로 모두 실패",0,,,2026-08-06
+CONFIRMED,신세계안피부과의원,서울,서초구,02-2138-0263,https://www.dranbeauty.com/,,"홈페이지 접속 차단 — 보안 인증서 오류(ERR_CERT_COMMON_NAME_INVALID). www·apex, http·https 4가지 경로 모두 실패",,,,2026-08-06
+CONFIRMED,연세가정의학과의원,서울,서초구,02-3463-7114,http://www.mydr1234.co.kr/,,"홈페이지 접속 불가 — HTTP 404 오류. www·apex, http·https 4가지 경로 모두 실패",0,,,2026-08-06
+CONFIRMED,유영호피부과의원,서울,서초구,02-518-8021,http://www.scalingskin.co.kr/main.asp,,"홈페이지 접속 불가 — HTTP 404 오류. www·apex, http·https 4가지 경로 모두 실패",0,,,2026-08-06
+CONFIRMED,에스메디센터내과외과의원,서울,성북구,02-6925-0700,http://www.s-medicenter.com/intro.asp,,"홈페이지 접속 불가 — HTTP 403 오류. www·apex, http·https 4가지 경로 모두 실패",0,,,2026-08-06
+CONFIRMED,이소진의원,서울,성북구,02-909-8877,http://www.leesojin.co.kr/index.asp,,"홈페이지 접속 불가 — HTTP 404 오류. www·apex, http·https 4가지 경로 모두 실패",0,,,2026-08-06
+CONFIRMED,센스피부과의원,서울,송파구,02-414-0058,http://www.senseclinic.com/,,"홈페이지 접속 불가 — HTTP 403 오류. www·apex, http·https 4가지 경로 모두 실패",0,,,2026-08-06
+CONFIRMED,엠버여성의원,서울,송파구,02-422-0333,http://www.yeonclinic.com/,,"홈페이지 접속 불가 — HTTP 404 오류. www·apex, http·https 4가지 경로 모두 실패",0,,,2026-08-06
+CONFIRMED,유비아여성의원,서울,송파구,02-414-9922,http://js.roeni.net/,,"홈페이지 접속 불가 — HTTP 403 오류. www·apex, http·https 4가지 경로 모두 실패",0,,,2026-08-06
+CONFIRMED,이석호내과의원,서울,송파구,02-420-7582,http://www.med1004.net/,,"홈페이지 접속 불가 — HTTP 403 오류. www·apex, http·https 4가지 경로 모두 실패",0,,,2026-08-06
+CONFIRMED,목동미소가인피부과의원,서울,양천구,02-2643-9900,http://www.misogain.co.kr/intro/mokdong/index.jsp,,"홈페이지 접속 불가 — HTTP 404 오류. www·apex, http·https 4가지 경로 모두 실패",0,,,2026-08-06
+CONFIRMED,WE(더블유이)의원,서울,영등포구,02-518-0045,http://www.we-clinic.co.kr/,,"홈페이지 접속 불가 — HTTP 403 오류. www·apex, http·https 4가지 경로 모두 실패",0,,,2026-08-06
+CONFIRMED,양전호내과의원,서울,은평구,02-385-2600,http://jeonh9.wix.com/livernet,,"홈페이지 접속 불가 — HTTP 404 오류. www·apex, http·https 4가지 경로 모두 실패",0,,,2026-08-06
+CONFIRMED,늘푸른비뇨기과의원,서울,종로구,02-2272-5588,http://www.egclinic.co.kr/new_main/main.asp,,"홈페이지 접속 불가 — HTTP 404 오류. www·apex, http·https 4가지 경로 모두 실패",0,,,2026-08-06
+CONFIRMED,더클리어의원,서울,종로구,734-8875,http://www.jnd7.com/index.php?control=html&mg=sub01&p_id=010206_2&sca=%EB%B0%98%ED%8F%AC%EC%A0%90,,"홈페이지 접속 불가 — HTTP 404 오류. www·apex, http·https 4가지 경로 모두 실패",0,,,2026-08-06
+CONFIRMED,더이다의원,서울,중구,02-533-6695,https://www.idaclinic.io/,,"홈페이지 접속 불가 — HTTP 404 오류. www·apex, http·https 4가지 경로 모두 실패",0,,,2026-08-06
+CONFIRMED,제이디의원,서울,중구,02-6677-8660,http://www.truebeauty.co.kr/index.asp,,"홈페이지 접속 불가 — HTTP 404 오류. www·apex, http·https 4가지 경로 모두 실패",0,,,2026-08-06
+CONFIRMED,성모마음정신건강의학과의원,서울,중랑구,02-972-4300,http://www.sungmom.com/,,"홈페이지 접속 불가 — HTTP 403 오류. www·apex, http·https 4가지 경로 모두 실패",0,,,2026-08-06
+PARTIAL,다산우리내과의원,경기,남양주시,031-555-2119,https://www.dasanwoori.com/,http://www.dasanwoori.com/,HTTPS 접속 시 인증서 오류로 차단(ERR_CERT_COMMON_NAME_INVALID) — http로만 접속 가능. 브라우저가 '안전하지 않음' 표시,,,,2026-08-06
+PARTIAL,메가비뇨의학과의원,경기,평택시,,https://megauro-pt.com/,http://megauro-pt.com/,HTTPS 접속 시 인증서 오류로 차단(ERR_CERT_COMMON_NAME_INVALID) — http로만 접속 가능. 브라우저가 '안전하지 않음' 표시,,,,2026-08-06
+PARTIAL,리앤웰성형외과의원,서울,강남구,02-6228-6886,https://www.reandwell.com/,http://www.reandwell.com/,HTTPS 접속 시 인증서 오류로 차단(ERR_CERT_REVOKED) — http로만 접속 가능. 브라우저가 '안전하지 않음' 표시,,,,2026-08-06
+PARTIAL,신사멜로우피부과의원,서울,강남구,02-548-5007,https://doctormellow-ss.com/,http://doctormellow-ss.com/,HTTPS 접속 시 인증서 오류로 차단(ERR_CERT_AUTHORITY_INVALID) — http로만 접속 가능. 브라우저가 '안전하지 않음' 표시,,,,2026-08-06
+PARTIAL,압구정하나내과의원,서울,강남구,02-3443-7550,https://www.agjhana.com/,http://www.agjhana.com/,HTTPS 접속 시 인증서 오류로 차단(ERR_CERT_COMMON_NAME_INVALID) — http로만 접속 가능. 브라우저가 '안전하지 않음' 표시,,,,2026-08-06
+PARTIAL,예라인의원,서울,강남구,02-6951-0071,https://ylcell.com/,http://ylcell.com/,HTTPS 접속 시 인증서 오류로 차단(ERR_CERT_DATE_INVALID) — http로만 접속 가능. 브라우저가 '안전하지 않음' 표시,,,,2026-08-06
+PARTIAL,강동아이비의원,서울,강동구,02-484-7525,http://gangdongivy.kr/?page_id=2,http://gangdongivy.kr/,심평원·검색에 등록된 주소(http://gangdongivy.kr/?page_id=2)가 오류 — 실제 사이트는 http://gangdongivy.kr/. 환자가 등록 주소로 들어오면 오류 화면,0,,,2026-08-06
+PARTIAL,멜로우피부과의원,서울,강동구,02-487-8733,https://doctormellow-ch.com/,http://doctormellow-ch.com/,HTTPS 접속 시 인증서 오류로 차단(ERR_CERT_AUTHORITY_INVALID) — http로만 접속 가능. 브라우저가 '안전하지 않음' 표시,,,,2026-08-06
+PARTIAL,킴스피부과의원,서울,강동구,02-487-7542,https://cheonho.hushuskin.com/,http://cheonho.hushuskin.com/,HTTPS 접속 시 인증서 오류로 차단(ERR_CERT_DATE_INVALID) — http로만 접속 가능. 브라우저가 '안전하지 않음' 표시,,,,2026-08-06
+PARTIAL,성모예스내과의원,서울,동대문구,02-6949-0030,https://www.smyesclinic.com/,http://www.smyesclinic.com/,HTTPS 접속 시 인증서 오류로 차단(ERR_CERT_COMMON_NAME_INVALID) — http로만 접속 가능. 브라우저가 '안전하지 않음' 표시,,,,2026-08-06
+PARTIAL,라온비뇨의학과의원,서울,서대문구,02-365-5671,https://www.raonuro.co.kr/,http://www.raonuro.co.kr/,HTTPS 접속 시 인증서 오류로 차단(ERR_CERT_AUTHORITY_INVALID) — http로만 접속 가능. 브라우저가 '안전하지 않음' 표시,,,,2026-08-06
+PARTIAL,마이라인성형외과의원,서울,서초구,,https://mylineps.com/,http://mylineps.com/,HTTPS 접속 시 인증서 오류로 차단(ERR_CERT_COMMON_NAME_INVALID) — http로만 접속 가능. 브라우저가 '안전하지 않음' 표시,,,,2026-08-06
+PARTIAL,아이브랩의원,서울,성동구,070-4755-9779,https://ivelab.kr/,http://ivelab.kr/,HTTPS 접속 시 인증서 오류로 차단(ERR_CERT_COMMON_NAME_INVALID) — http로만 접속 가능. 브라우저가 '안전하지 않음' 표시,,,,2026-08-06
+PARTIAL,갤러리아피부과의원,서울,성북구,02-941-2313,https://galleriaskinsb.com/,http://galleriaskinsb.com/,HTTPS 접속 시 인증서 오류로 차단(ERR_CERT_COMMON_NAME_INVALID) — http로만 접속 가능. 브라우저가 '안전하지 않음' 표시,,,,2026-08-06
+PARTIAL,목동서울정형외과의원,서울,양천구,02-6095-1234,https://xn--vb0b43kq8fz6g97g7kan5fh18b.com/,http://xn--vb0b43kq8fz6g97g7kan5fh18b.com/,HTTPS 접속 시 인증서 오류로 차단(ERR_SSL_PROTOCOL_ERROR) — http로만 접속 가능. 브라우저가 '안전하지 않음' 표시,,,,2026-08-06
+PARTIAL,언제든내과의원,서울,영등포구,02-6951-2777,https://xn--vb0bn4este14vdibkxad3b.com/,http://xn--vb0bn4este14vdibkxad3b.com/,HTTPS 접속 시 인증서 오류로 차단(ERR_CERT_COMMON_NAME_INVALID) — http로만 접속 가능. 브라우저가 '안전하지 않음' 표시,,,,2026-08-06
