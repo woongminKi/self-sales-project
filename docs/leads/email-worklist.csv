@@ -1,0 +1,355 @@
+우선순위,결함수,요양기관명,시도,시군구,전화,홈페이지,방침페이지(여기서 확인),문의폼,후크,이메일,확인일,비고
+2,4,아이비의원,경기,부천오정구,032-671-4475,http://www.ibplastic.co.kr/,http://www.ibplastic.co.kr/main.php?m1=member&m2=private,0,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생 / 푸터 카피라이트 2015 — 방치 인상,ibplastic@naver.com,2026-08-06,푸터/본문
+2,4,아름다운의료생활협동조합아름다운s의원,경기,부천원미구,032-614-3344,http://www.beautyss.kr/,http://www.beautyss.kr/sub00_04.php,0,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생 / 푸터 카피라이트 2015 — 방치 인상,beauty_sss@naver.com,2026-08-06,푸터/본문
+2,4,정다운산부인과의원,경기,성남수정구,031-747-9944,http://www.jkygo.co.kr/,http://www.jkygo.co.kr/sub07/sub07_01.html?uid=15,1,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / viewport 없음 — 모바일 미대응 / 푸터 카피라이트 2015 — 방치 인상,,2026-08-06,이메일 미발견
+2,4,탑라인의원,경기,성남중원구,031-722-2204,http://www.topline21.com/,http://www.topline21.com/new2019/member/join.php,0,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / viewport 없음 — 모바일 미대응 / 푸터 카피라이트 2019 — 방치 인상,,2026-08-06,이메일 미발견
+2,4,JY피부과의원,경기,수원장안구,031-303-1002,http://www.jyskin.kr/,http://www.jyskin.kr/07_community/comm1.html,0,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / viewport 없음 — 모바일 미대응 / 푸터 카피라이트 2009 — 방치 인상,tech@eurekanet.co.kr,2026-08-06,대표계정 형태 — 확인 권장 / 방침페이지
+2,4,김준범성형외과의원,경기,시흥시,031-488-9100,http://www.facebeauty.co.kr/,http://www.facebeauty.co.kr/memberjoins/personInfoPolicy,2,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생 / 푸터 카피라이트 2015 — 방치 인상,,2026-08-06,이메일 미발견
+2,4,크리스마스의원,경기,용인기흥구,1644-1225,http://www.nunco.co.kr/,http://www.nunco.co.kr/www/contents.php?inc=privacy.php,0,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / viewport 없음 — 모바일 미대응 / 푸터 카피라이트 2016 — 방치 인상,ckatm89@naver.com,2026-08-06,방침페이지
+2,4,벧엘피부과의원,서울,강남구,02-532-3110,http://bethelskin.com/,http://bethelskin.com/privacy,1,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / viewport 없음 — 모바일 미대응 / 푸터 카피라이트 2013 — 방치 인상,,2026-08-06,이메일 미발견
+2,4,비아이오성형외과의원,서울,강남구,02-535-9000,http://www.biops.kr/,http://biopskorea.com/member/policy_privacy.html,1,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / viewport 없음 — 모바일 미대응 / 푸터 카피라이트 2019 — 방치 인상,bio@biops.kr,2026-08-06,방침페이지
+2,4,서울배내과의원,서울,강남구,02-529-3002,http://doctorbae.co.kr/,http://doctorbae.co.kr/member/privacy.php,1,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생 / 푸터 카피라이트 2018 — 방치 인상,,2026-08-06,이메일 미발견
+2,4,아이라인성형외과의원,서울,강남구,02-540-8666,http://www.ilines.co.kr/,http://ilines.co.kr/privacy,2,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생 / 푸터 카피라이트 2019 — 방치 인상,ilineps@naver.com,2026-08-06,방침페이지
+2,4,앤플러스의원,서울,강남구,511-6300,http://www.nplusclinic.com/,http://nplusclinic.com/page/policy.php?pageIndex=910150,1,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생 / 푸터 카피라이트 2019 — 방치 인상,master@nplusclinic.com,2026-08-06,대표계정 형태 — 확인 권장 / 방침페이지
+2,4,역삼이창훈이비인후과의원,서울,강남구,02-564-5647,http://yeoksamlee-ent.co.kr/,http://yeoksamlee-ent.co.kr/#self,0,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / viewport 없음 — 모바일 미대응 / 푸터 카피라이트 2012 — 방치 인상,albertyi@daum.net,2026-08-06,푸터/본문(mailto)
+2,4,오로라의원,서울,강남구,1577-2968,http://www.auroraclinic.co.kr/,http://www.auroraclinic.co.kr/default/#;,1,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생 / 푸터 카피라이트 2022 — 방치 인상,auroramc@naver.com,2026-08-06,푸터/본문
+2,4,탐의원,서울,강남구,3444-5975,http://www.tamclinic.co.kr/,http://www.tamclinic.co.kr/common/html/privacy.html,0,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생 / 푸터 카피라이트 2018 — 방치 인상,tamgun@naver.com,2026-08-06,방침페이지
+2,4,류마내과의원,서울,강동구,474-5450,http://www.rheumanet.com/,http://www.rheumanet.com/front/html/privacy,0,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생 / 푸터 카피라이트 2016 — 방치 인상,cti3453@naver.com,2026-08-06,방침페이지
+2,4,리앤안의원,서울,강동구,02-482-6622,http://www.leeahnclinic.co.kr/,http://www.leeahnclinic.co.kr/common/html/privacy.html,1,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / viewport 없음 — 모바일 미대응 / 푸터 카피라이트 2019 — 방치 인상,,2026-08-06,이메일 미발견
+2,4,김의원,서울,관악구,02-855-7541,http://dr-kiment.co.kr/,http://dr-kiment.co.kr/memberjoins/personInfoPolicy,2,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생 / 푸터 카피라이트 2016 — 방치 인상,,2026-08-06,이메일 미발견
+2,4,미래아이내과의원,서울,서대문구,02-309-7582,http://www.miraeimed.com/,http://www.miraeimed.com/popup_personalinfo.php,0,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / viewport 없음 — 모바일 미대응 / 푸터 카피라이트 2012 — 방치 인상,,2026-08-06,이메일 미발견
+2,4,아이러브피부과의원,서울,서초구,02-553-1060,http://www.iloveskin.kr/,http://www.iloveskin.kr/bbs/content.php?co_id=privacy,0,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / viewport 없음 — 모바일 미대응 / 푸터 카피라이트 2015 — 방치 인상,yellowti@hanmail.net,2026-08-06,방침페이지
+2,4,연세크라운비뇨의학과의원,서울,서초구,02-588-2119,http://www.crownclinic.co.kr/,http://www.crownclinic.co.kr/bbs/content.php?co_id=privacy,1,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / viewport 없음 — 모바일 미대응 / 푸터 카피라이트 2021 — 방치 인상,,2026-08-06,이메일 미발견
+2,4,플로체여성의원,서울,서초구,02-514-1454,http://www.flocewoman.com/index.asp,http://www.flocewoman.com/member/privacy.php,6,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생 / 푸터 카피라이트 2007 — 방치 인상,,2026-08-06,이메일 미발견
+2,4,사랑아이여성의원,서울,송파구,02-419-7501,http://www.sarangi.co.kr/,http://www.sarangi.co.kr/member/privacy.php,3,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생 / 푸터 카피라이트 2018 — 방치 인상,,2026-08-06,이메일 미발견
+2,4,서아송피부과의원,서울,송파구,02-425-3133,http://www.sasclinic.com/,http://www.sasclinic.com/content/privacy,1,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / viewport 없음 — 모바일 미대응 / 푸터 카피라이트 2022 — 방치 인상,06febr@naver.com,2026-08-06,방침페이지
+2,4,서울삼성여성의원,서울,송파구,02-2202-0230,http://www.drkoo.co.kr/,http://www.drkoo.co.kr/member/privacy.php?PHPSESSID=f74237457dc2ff8ffb24ff9a816ba1ab,2,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생 / 푸터 카피라이트 2020 — 방치 인상,drkoocokr@naver.com,2026-08-06,푸터/본문
+2,4,클럽미즈라미체의원,서울,송파구,02-422-9888,http://www.lamiche.co.kr/,http://www.lamiche.co.kr/page/agreement.php,1,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생 / 푸터 카피라이트 2021 — 방치 인상,,2026-08-06,이메일 미발견
+2,4,다미산부인과의원,서울,영등포구,761-3072,http://www.damiwoman.com/,http://www.damiwoman.com/html/member/privacy.html,1,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / viewport 없음 — 모바일 미대응 / 푸터 카피라이트 2016 — 방치 인상,damiclinic@naver.com,2026-08-06,방침페이지
+2,4,최윤영산부인과의원,서울,은평구,02-382-0220,http://www.herdoctor.co.kr/,http://www.herdoctor.co.kr/#,0,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / viewport 없음 — 모바일 미대응 / 푸터 카피라이트 2006 — 방치 인상,angelcyy@naver.com,2026-08-06,푸터/본문(mailto)
+3,3,라인의원,경기,고양덕양구,031-974-9700,http://linebeauty.kr/xe/index.php,http://linebeauty.kr/xe/protection,0,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / viewport 없음 — 모바일 미대응,,2026-08-06,이메일 미발견
+3,3,강경민정형외과의원,경기,광명시,02-2616-2119,http://www.kangclinic.co.kr/,http://www.kangclinic.co.kr/etc/privacy.html,0,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / viewport 없음 — 모바일 미대응,tajonglee@hanmail.net,2026-08-06,방침페이지(mailto)
+3,3,새하얀 피부과의원,경기,광명시,02-2684-2552,http://www.whitskin.com/index.php,http://www.whitskin.com/2021/member/member01.php,1,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생,,2026-08-06,이메일 미발견
+3,3,코코이비인후과의원,경기,광명시,02-2611-0790,http://www.cocoent.com/,http://www.cocoent.com/notice/notice_v.asp?srno=1862421,2,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / viewport 없음 — 모바일 미대응,,2026-08-06,이메일 미발견
+3,3,조형도내과의원,경기,구리시,031-565-9053,http://www.chdkidney.co.kr/index.asp,http://www.chdkidney.co.kr/notice/notice_v.asp?srno=1862421,0,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / viewport 없음 — 모바일 미대응,,2026-08-06,이메일 미발견
+3,3,산본외과의원,경기,군포시,031-397-8130,http://www.sanbons.co.kr/,http://www.sanbons.co.kr/etc/privacy.php,0,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / viewport 없음 — 모바일 미대응,sanbons@hanmail.net,2026-08-06,푸터/본문
+3,3,권오윤내과의원,경기,남양주시,031-571-8745,http://www.koy570.co.kr/,http://www.koy570.co.kr/#,0,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / viewport 없음 — 모바일 미대응,,2026-08-06,이메일 미발견
+3,3,미앤느여성의원,경기,남양주시,031-576-2840,http://www.miennewoman.co.kr/,http://www.miennewoman.co.kr/bbs/register.php,0,HTTPS 미설정(http로만 접속) / viewport 없음 — 모바일 미대응 / 푸터 카피라이트 2016 — 방치 인상,,2026-08-06,이메일 미발견
+3,3,해성산부인과의원,경기,동두천시,031-868-0868,http://www.hsclinic.net/,https://hsclinic.net:53415/kwa-private_info,4,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / viewport 없음 — 모바일 미대응 / 푸터 카피라이트 2017 — 방치 인상,happytaegyo@naver.com,2026-08-06,푸터/본문
+3,3,베스탑비뇨기과의원,경기,성남분당구,031-782-4333,http://www.bestopclinic.com/,http://www.bestopclinic.com/?mode=privacy,2,HTTPS 미설정(http로만 접속) / 모바일 가로스크롤 발생 / 푸터 카피라이트 2019 — 방치 인상,,2026-08-06,이메일 미발견
+3,3,분당예쁨주의쁨의원,경기,성남분당구,031-703-3010,https://www.ppeum10.com/new/main/main.php?,https://www.ppeum10.com/member/privacy.php,2,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생 / 푸터 카피라이트 2018 — 방치 인상,,2026-08-06,과다검출 19건(체인 지점 목록 추정) — 사람 확인 필요: ppeum000@naver.com bdppeum55@naver.com beomgyeclinic@naver.com ppeumbf@naver.com ppeumkku@naver.com
+3,3,탑비뇨기과의원,경기,성남분당구,031-781-7575,http://www.topuro.co.kr/index.asp,http://www.topuro.co.kr/index.asp#,0,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / viewport 없음 — 모바일 미대응,,2026-08-06,이메일 미발견
+3,3,펄피부과의원,경기,성남분당구,031-703-3733,http://www.pearlclinic.co.kr/,https://www.pearlclinic.co.kr/?mid=privacy&pn=30&sn=1,0,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / viewport 없음 — 모바일 미대응 / 푸터 카피라이트 2015 — 방치 인상,,2026-08-06,이메일 미발견
+3,3,루미나르피부과의원,경기,성남수정구,031-755-8277,http://www.luminar.co.kr/,http://www.luminar.co.kr/html/clause/privacy_Policy.html,0,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 푸터 카피라이트 2019 — 방치 인상,luminar777@naver.com,2026-08-06,하위페이지
+3,3,연세피부사랑의원,경기,성남수정구,031-733-3433,http://www.bodynskin.kr/,http://bodynskin.kr/bbs/content.php?co_id=privacy,2,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / viewport 없음 — 모바일 미대응,skinlovedoc@naver.com,2026-08-06,방침페이지
+3,3,엘에스정형외과의원,경기,성남중원구,031-740-9119,http://www.lsclinic.co.kr/,http://www.lsclinic.co.kr/member/privacy.html,1,HTTPS 미설정(http로만 접속) / 모바일 가로스크롤 발생 / 푸터 카피라이트 2017 — 방치 인상,,2026-08-06,이메일 미발견
+3,3,지인의원,경기,성남중원구,031-723-8555,http://jiinplasticsurgery.com/,http://jiinplasticsurgery.com/?act=info.privacy,0,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / viewport 없음 — 모바일 미대응,kkmhappyx3@naver.com,2026-08-06,방침페이지
+3,3,베스탑비뇨기과의원,경기,수원영통구,031-213-0035,http://www.bestopclinic.com/,http://www.bestopclinic.com/?mode=privacy,2,HTTPS 미설정(http로만 접속) / 모바일 가로스크롤 발생 / 푸터 카피라이트 2019 — 방치 인상,,2026-08-06,이메일 미발견
+3,3,강남신경과의원,경기,수원팔달구,031-251-3111,http://kangnamclinic.kr/,http://kangnamclinic.kr/notice/notice_v.asp?srno=1862421&MenuNumber=4&PageNumber=1&SubPageNumber=0,1,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / viewport 없음 — 모바일 미대응,,2026-08-06,이메일 미발견
+3,3,조은내과의원,경기,시흥시,031-434-9700,http://www.goodmedical.net/index.asp,http://www.goodmedical.net/notice/notice_v.asp?srno=1862421,1,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / viewport 없음 — 모바일 미대응,,2026-08-06,이메일 미발견
+3,3,성모가정의원,경기,안성시,031-654-7511,http://doctorfm.co.kr/index.asp,http://doctorfm.co.kr/notice/notice_v.asp?srno=1862421,0,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / viewport 없음 — 모바일 미대응,,2026-08-06,이메일 미발견
+3,3,박가정의원,경기,안양동안구,031-423-9776,http://www.parkfmclinic.co.kr/index.asp,http://www.parkfmclinic.co.kr/notice/notice_v.asp?srno=1862421,0,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / viewport 없음 — 모바일 미대응,,2026-08-06,이메일 미발견
+3,3,웰비뇨기과의원,경기,안양만안구,031-463-5005,http://www.stone75.com/,http://www.stone75.com/#,0,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / viewport 없음 — 모바일 미대응,,2026-08-06,이메일 미발견
+3,3,강남성형외과의원,경기,오산시,031-377-7575,http://www.osknps.co.kr/,http://www.osknps.co.kr/?page_id=4153,1,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 푸터 카피라이트 2014 — 방치 인상,help@osknps.co.kr,2026-08-06,대표계정 형태 — 확인 권장 / 푸터/본문
+3,3,속편한내과의원,경기,파주시,031-943-7582,http://www.sok7582.com/,http://www.sok7582.com/notice/notice_v.asp?srno=1862421,0,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / viewport 없음 — 모바일 미대응,,2026-08-06,이메일 미발견
+3,3,바로그의원,경기,평택시,031-652-5670,https://barogclinic.com/branch/br32/subindex.php,https://barogclinic.com/bbs/content.php?co_id=privacy,0,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / viewport 없음 — 모바일 미대응 / 푸터 카피라이트 2020 — 방치 인상,,2026-08-06,이메일 미발견
+3,3,토마토미비뇨기과의원,경기,하남시,031-796-7582,http://www.tomatoclinic.co.kr/,http://www.tomatoclinic.co.kr/notice/notice_v.asp?srno=1862421&MenuNumber=6&PageNumber=1&SubPageNumber=0,0,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / viewport 없음 — 모바일 미대응,,2026-08-06,이메일 미발견
+3,3,닥터베이직의원,서울,강남구,02-3448-0090,http://www.drbasic.co.kr/,https://www.drbasic.co.kr/privacy.php,1,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생 / 푸터 카피라이트 2018 — 방치 인상,drbasicclininc@gmail.com,2026-08-06,푸터/본문(mailto)
+3,3,닥터웰니스의원,서울,강남구,02-3447-3101,http://www.drwellness.co.kr/,http://www.drwellness.co.kr/?mode=privacy,3,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생,dr_wellness@naver.com,2026-08-06,푸터/본문
+3,3,리드미피부과의원,서울,강남구,02-567-9357,http://www.menmi.co.kr/,http://www.menmi.co.kr/default/member/private.php,0,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / viewport 없음 — 모바일 미대응,cs@menmi.co.kr,2026-08-06,대표계정 형태 — 확인 권장 / 방침페이지
+3,3,리본성형외과의원,서울,강남구,02-543-3355,http://www.rebornps.com/,http://www.rebornps.com/0112.php,2,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생,shinhb@gmail.com ; rebornps@naver.com ; wodud9031@naver.com,2026-08-06,복수 발견 — 하나 선택 필요 / 방침페이지
+3,3,린의원,서울,강남구,02-3448-3003,http://www.lyhnclinic.com/,http://www.lyhnclinic.com/index.php/member/agreement/57,2,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / viewport 없음 — 모바일 미대응,,2026-08-06,이메일 미발견
+3,3,미큐의원,서울,강남구,313-4566,http://www.miqclinic.com/,http://miqclinic.com/protection,2,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생,pkwangin@naver.com,2026-08-06,푸터/본문
+3,3,셀리에의원,서울,강남구,02-6358-0123,https://cellierclinic.com/,https://cellierclinic43764.imweb.me/76,3,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생,cellier.clinic@gmail.com,2026-08-06,푸터/본문
+3,3,신논현톡스앤필의원,서울,강남구,02-6951-4882,https://www.toxnfill9.com/,https://www.toxnfill9.com/acceptPrivacy.php,2,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생 / 푸터 카피라이트 2021 — 방치 인상,,2026-08-06,공용/제작사 의심 제외: help@triupcorp.com bbg@bbgnetworks.com / 방침페이지
+3,3,압구정바로보기안과의원,서울,강남구,02-548-3133,http://www.barobogi.com/,http://www.barobogi.com/member/privacy.php3,1,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / viewport 없음 — 모바일 미대응,barobogi8275@hanmail.net,2026-08-06,방침페이지
+3,3,압구정페이스라인성형외과의원,서울,강남구,02-541-8668,http://www.face-line.co.kr/,https://www.face-line.co.kr/kor/contents.php?code=01011007,5,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / viewport 없음 — 모바일 미대응 / 푸터 카피라이트 2015 — 방치 인상,faceline_s@naver.com,2026-08-06,방침페이지
+3,3,에버그린피부과의원,서울,강남구,02-2187-7377,http://www.egskin.co.kr/,http://www.egskin.co.kr/inc/popup_privacy.php,0,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / viewport 없음 — 모바일 미대응,egskin@hanmail.net,2026-08-06,방침페이지
+3,3,연세라인업의원,서울,강남구,02-553-8070,http://www.xn--oi2bp8p5vd3em9e.kr/,http://www.xn--oi2bp8p5vd3em9e.kr/other/privacy.php,1,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / viewport 없음 — 모바일 미대응,psykjin8070@hanmail.net,2026-08-06,방침페이지
+3,3,올핏의원,서울,강남구,02-582-5592,http://www.allfit.kr/,http://www.allfit.kr/sub/sub0901.php,0,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / viewport 없음 — 모바일 미대응,,2026-08-06,이메일 미발견
+3,3,유니크성형외과의원,서울,강남구,02-561-2255,http://www.uniqueps.co.kr/,https://www.uniqueps.co.kr/class_Utils/personal.html,4,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생 / 푸터 카피라이트 2013 — 방치 인상,,2026-08-06,이메일 미발견
+3,3,이혜미산부인과의원,서울,강남구,508-4693,http://www.hemi.co.kr/,http://www.hemi.co.kr/bbs/content.php?co_id=privacy,1,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / viewport 없음 — 모바일 미대응,doctor@hemi.co.kr,2026-08-06,방침페이지(mailto)
+3,3,퓨어피부과의원,서울,강남구,02-3443-1222,http://www.pureclinic.kr/,http://pureclinic.kr/priv,1,HTTPS 미설정(http로만 접속) / 모바일 가로스크롤 발생 / 푸터 카피라이트 2018 — 방치 인상,pureskindoc@naver.com,2026-08-06,방침페이지
+3,3,우리맑은의원,서울,강북구,02-987-7711,http://www.wooriskin.com/,http://www.wooriskin.com/notice/notice_v.asp?srno=1862421&MenuNumber=5&PageNumber=1&SubPageNumber=0,4,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / viewport 없음 — 모바일 미대응,,2026-08-06,이메일 미발견
+3,3,하맥외과의원,서울,강북구,02-985-2332,http://www.harmac.co.kr/,http://www.harmac.co.kr/#,0,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / viewport 없음 — 모바일 미대응,,2026-08-06,이메일 미발견
+3,3,우리정형외과의원,서울,강서구,02-2644-0114,http://www.woorios.co.kr/,http://www.woorios.co.kr/notice/notice_v.asp?srno=1862421&MenuNumber=6&PageNumber=1&SubPageNumber=0,1,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / viewport 없음 — 모바일 미대응,,2026-08-06,이메일 미발견
+3,3,최비뇨의학과의원,서울,강서구,02-2659-9477,http://www.choiclinic.com/,http://www.choiclinic.com/#,0,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / viewport 없음 — 모바일 미대응,,2026-08-06,이메일 미발견
+3,3,그랜트피부과의원,서울,광진구,02-2039-1477,http://www.grantskin.com/,https://www.grantskin.com/bbs/content.php?co_id=privacy,0,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / viewport 없음 — 모바일 미대응 / 푸터 카피라이트 2021 — 방치 인상,grantskin14@gmail.com,2026-08-06,푸터/본문
+3,3,아름생가정의학과의원,서울,구로구,02-2060-7621,http://www.ungman.kr/index.asp,http://www.ungman.kr/notice/notice_v.asp?srno=451392,0,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / viewport 없음 — 모바일 미대응,,2026-08-06,이메일 미발견
+3,3,고은미즈의원,서울,노원구,02-3392-3338,http://www.gomiz.co.kr/,http://www.gomiz.co.kr/index.php?menu_code1=membership&menu_code2=private,0,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / viewport 없음 — 모바일 미대응,gomiz03@nate.com,2026-08-06,푸터/본문
+3,3,서울삼성내과의원,서울,노원구,,http://www.samsunghealth.net/,http://www.samsunghealth.net/notice/notice_v.asp?srno=1862421,0,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / viewport 없음 — 모바일 미대응,,2026-08-06,이메일 미발견
+3,3,연세참이비인후과의원,서울,동대문구,969-2500,http://www.yscharm.com/,http://www.yscharm.com/notice/notice_v.asp?srno=1862421,0,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / viewport 없음 — 모바일 미대응,,2026-08-06,이메일 미발견
+3,3,혜성플러스의원,서울,동대문구,02-2244-6356,http://www.hsplus-im.co.kr/,http://www.hsplus-im.co.kr/notice/notice_v.asp?srno=1862421,0,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / viewport 없음 — 모바일 미대응,,2026-08-06,이메일 미발견
+3,3,노현주산부인과의원,서울,동작구,02-6278-7575,http://www.womenclinic.kr/,http://www.womenclinic.kr/new2013/jmmember/rule.php?lv=3,0,HTTPS 미설정(http로만 접속) / 모바일 가로스크롤 발생 / 푸터 카피라이트 2013 — 방치 인상,,2026-08-06,이메일 미발견
+3,3,늘건강내과이비인후과의원,서울,동작구,02-822-3375,http://www.neulgungang.co.kr/,http://www.neulgungang.co.kr/notice/notice_v.asp?srno=1862421,0,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / viewport 없음 — 모바일 미대응,,2026-08-06,이메일 미발견
+3,3,리버스의원,서울,마포구,02-1544-0890,http://www.reverseclinic.com/,https://www.reverseclinic.com/#,2,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생 / 푸터 카피라이트 2020 — 방치 인상,,2026-08-06,이메일 미발견
+3,3,서피부과의원,서울,마포구,02-334-2898,http://www.seoderma.co.kr/,http://www.seoderma.co.kr/bbs/board.php?bo_table=derma_04&wr_id=48,0,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / viewport 없음 — 모바일 미대응,,2026-08-06,이메일 미발견
+3,3,연세동안의원,서울,마포구,02-707-1023,http://www.vipclinic.co.kr/,http://www.vipclinic.co.kr/contents/main/main.html#,0,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생,,2026-08-06,이메일 미발견
+3,3,임비뇨기과의원,서울,마포구,02-715-2100,http://www.adamclinic.co.kr/,http://www.adamclinic.co.kr/#,0,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / viewport 없음 — 모바일 미대응,,2026-08-06,이메일 미발견
+3,3,홍대톡스앤필의원,서울,마포구,02-332-4842,https://www.toxnfill50.com/,https://www.toxnfill50.com/acceptPrivacy.php,2,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생 / 푸터 카피라이트 2021 — 방치 인상,,2026-08-06,공용/제작사 의심 제외: help@triupcorp.com bbg@bbgnetworks.com / 방침페이지
+3,3,웰비뇨기과의원,서울,서대문구,02-3217-8875,http://www.wellclinic.co.kr/,http://www.wellclinic.co.kr/#,0,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / viewport 없음 — 모바일 미대응,well@wellclinic.co.kr,2026-08-06,푸터/본문(mailto)
+3,3,학교앞작은의원,서울,서대문구,02-313-3105,http://www.ohmydoc.co.kr/,http://www.ohmydoc.co.kr/notice/notice_v.asp?srno=1862421,0,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / viewport 없음 — 모바일 미대응,,2026-08-06,이메일 미발견
+3,3,미즈러브여성비뇨의학과의원,서울,서초구,02-3447-6363,http://www.mizlove.com/,http://www.mizlove.com/bbs/content.php?co_id=privacy,1,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생,,2026-08-06,이메일 미발견
+3,3,새하얀피부과의원,서울,서초구,02-583-2500,http://www.whitskin.com/,http://www.whitskin.com/2021/member/member01.php,1,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생,,2026-08-06,이메일 미발견
+3,3,순플러스성형외과의원,서울,서초구,02-547-1705,http://www.soonplus.com/,http://www.soonplus.com/bbs/content.php?co_id=privacy,0,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생,pssoon0@naver.com,2026-08-06,푸터/본문
+3,3,아나모헤어플란트의원,서울,서초구,02-553-7573,http://www.anamo.co.kr/,http://www.anamo.co.kr/#,0,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / viewport 없음 — 모바일 미대응,,2026-08-06,이메일 미발견
+3,3,에이치성형외과의원,서울,서초구,02-3447-0100,http://www.ys100ps.co.kr/,http://www.ys100ps.co.kr/bbs/content.php?co_id=privacy,2,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생,h_clinicps@naver.com,2026-08-06,푸터/본문
+3,3,연세탑뷰티의원,서울,서초구,02-533-4287,http://www.sbclinic.kr/,http://www.sbclinic.kr/#,1,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / viewport 없음 — 모바일 미대응,,2026-08-06,이메일 미발견
+3,3,임이석테마피부과의원,서울,서초구,3446-1110,http://www.beautyskin.kr/,https://www.beautyskin.kr/member/privacy.php,2,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생 / 푸터 카피라이트 2019 — 방치 인상,,2026-08-06,이메일 미발견
+3,3,핸슨의원,서울,서초구,532-8053,http://www.drhansen.kr/,http://drhansen.kr/?privacy=terms&tabIdx=0,0,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생,,2026-08-06,이메일 미발견
+3,3,지인산부인과의원,서울,성북구,02-923-8888,http://www.huu.kr/,https://www.huu.kr/member/privacy.html,2,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / viewport 없음 — 모바일 미대응 / 푸터 카피라이트 2011 — 방치 인상,huu@huu.kr ; baramsok@daum.net,2026-08-06,복수 발견 — 하나 선택 필요 / 푸터/본문(mailto)
+3,3,베스탑비뇨기과의원,서울,송파구,02-416-4747,http://www.bestopclinic.com/,http://www.bestopclinic.com/?mode=privacy,2,HTTPS 미설정(http로만 접속) / 모바일 가로스크롤 발생 / 푸터 카피라이트 2019 — 방치 인상,,2026-08-06,이메일 미발견
+3,3,소솜피부과의원,서울,송파구,02-420-3234,http://www.119som.com/,http://www.119som.com/,0,HTTPS 미설정(http로만 접속) / 모바일 가로스크롤 발생 / 푸터 카피라이트 2018 — 방치 인상,,2026-08-06,이메일 미발견
+3,3,연세탑비뇨기과의원,서울,양천구,02-2605-2580,http://www.yonseitopuro.com/,http://www.yonseitopuro.com/notice/notice_v.asp?srno=1862421,0,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / viewport 없음 — 모바일 미대응,,2026-08-06,이메일 미발견
+3,3,베스탑비뇨기과의원,서울,영등포구,02-2678-7070,http://www.bestopclinic.com/,http://www.bestopclinic.com/?mode=privacy,2,HTTPS 미설정(http로만 접속) / 모바일 가로스크롤 발생 / 푸터 카피라이트 2019 — 방치 인상,,2026-08-06,이메일 미발견
+3,3,성모속튼튼내과의원,서울,영등포구,02-2671-5656,http://sokgood.com/,http://sokgood.com/#,1,HTTPS 미설정(http로만 접속) / 모바일 가로스크롤 발생 / 푸터 카피라이트 2021 — 방치 인상,,2026-08-06,이메일 미발견
+3,3,로쉬여성의원,서울,은평구,02-303-9313,http://www.miaeroyp.com/,http://www.miaeroyp.com/bbs/content.php?co_id=privacy,1,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / viewport 없음 — 모바일 미대응,dahaeobg@daum.net,2026-08-06,방침페이지(mailto)
+3,3,새하얀피부과의원,서울,은평구,02-353-5600,http://www.whitskin.com/,http://www.whitskin.com/2021/member/member01.php,1,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생,,2026-08-06,이메일 미발견
+3,3,이윤진산부인과의원,서울,은평구,02-356-3100,http://www.leeyoonjin.com/,http://www.leeyoonjin.com/index.php?ch=memberPrivacy,0,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생,rosella00@naver.com,2026-08-06,방침페이지
+3,3,경희궁비뇨의학과의원,서울,종로구,02-722-7550,http://www.bestopclinic.com/,http://www.bestopclinic.com/?mode=privacy,2,HTTPS 미설정(http로만 접속) / 모바일 가로스크롤 발생 / 푸터 카피라이트 2019 — 방치 인상,,2026-08-06,이메일 미발견
+3,3,래인의원,서울,종로구,02-6272-4194,http://www.leinclinic.com/,http://www.leinclinic.com/content/privacy,0,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / viewport 없음 — 모바일 미대응,,2026-08-06,이메일 미발견
+3,3,의료법인하나로의료재단하나로의원,서울,종로구,02-732-3030,http://www.hanaromf.com/,https://www.hanaromf.com/helpdesk/policy/index.jsp,1,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / viewport 없음 — 모바일 미대응 / 푸터 카피라이트 2018 — 방치 인상,privacy@hanaromf.com,2026-08-06,방침페이지
+4,2,임내과의원,경기,가평군,031-581-0675,http://www.drimh.com/,http://www.drimh.com/notice/notice_v.asp?srno=1862421,0,HTTPS 미설정(http로만 접속) / viewport 없음 — 모바일 미대응,,2026-08-06,이메일 미발견
+4,2,미소가인피부과의원,경기,고양일산동구,031-901-7603,http://www.misogain.co.kr/,http://www.misogain.co.kr/hq/polcy.do;jsessionid=2DEAA5C5CAC82CE6A4BFD77D29C73F74?useStplatId=P,0,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨,,2026-08-06,이메일 미발견
+4,2,산타클로스의원,경기,고양일산동구,031-905-7591,http://www.santaskin.co.kr/,https://www.santaskin.co.kr/bbs/content.php?co_id=privacy,0,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생,santaskin@naver.com,2026-08-06,방침페이지
+4,2,일산차앤박피부과의원,경기,고양일산서구,031-911-7571,http://www.cnpskin.com/,https://www.cnpskin.com/pc/cnp/terms/privacy-notice.html,2,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생,,2026-08-06,공용/제작사 의심 제외: webding@cnpskin.com / 방침페이지
+4,2,유앤아이의원,경기,과천시,02-6954-7233,https://www.gcuni114.co.kr/staff/,https://www.gcuni114.co.kr/info/,0,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생,,2026-08-06,공용/제작사 의심 제외: mdvision@nate.com / 방침페이지
+4,2,노블클래식의원,경기,광명시,898-7582,http://www.nobleclassic.com/,https://nobleclassic.com/?privacy=terms&tabIdx=0,0,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생,,2026-08-06,이메일 미발견
+4,2,삼성닥터스원비뇨기과의원,경기,광명시,2682-5555,http://www.samsungdoctors.com/,http://www.samsungdoctors.com/#,1,HTTPS 미설정(http로만 접속) / 모바일 가로스크롤 발생,,2026-08-06,이메일 미발견
+4,2,에스필의원,경기,구리시,514-7700,http://www.s-feelclinic.co.kr/,http://www.s-feelclinic.co.kr/?mode=privacy,0,HTTPS 미설정(http로만 접속) / 모바일 가로스크롤 발생,dr-kangsk@hanmail.net,2026-08-06,푸터/본문
+4,2,건강드림내과영상의학과의원,경기,군포시,031-340-7897,http://www.healthdream75.com/,http://www.healthdream75.com/#,1,HTTPS 미설정(http로만 접속) / 모바일 가로스크롤 발생,,2026-08-06,이메일 미발견
+4,2,오라클피부과의원,경기,군포시,031-398-1931,http://www.dfskin.co.kr/,http://www.dfskin.co.kr/shop_info/privacy.htm,0,HTTPS 미설정(http로만 접속) / 모바일 가로스크롤 발생,,2026-08-06,이메일 미발견
+4,2,부천아이스피부과의원,경기,부천원미구,032-323-0567,http://www.wellsclinic.co.kr/,https://www.wellsclinic.co.kr/etc/privacy.php,1,viewport 없음 — 모바일 미대응 / 푸터 카피라이트 2020 — 방치 인상,,2026-08-06,이메일 미발견
+4,2,비너스의원,경기,부천원미구,032-322-4845,http://myvenus.co.kr/,https://myvenus.co.kr/privacy,5,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 푸터 카피라이트 2008 — 방치 인상,venus@myvenus.co.kr,2026-08-06,푸터/본문
+4,2,차앤박피부과의원,경기,부천원미구,032-325-7733,http://www.cnpskin.com/,https://www.cnpskin.com/pc/cnp/terms/privacy-notice.html,2,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생,,2026-08-06,공용/제작사 의심 제외: webding@cnpskin.com / 방침페이지
+4,2,포엘산부인과의원,경기,부천원미구,032-345-3004,http://www.drcha.kr/,http://www.drcha.kr/shop_info/privacy.htm,0,HTTPS 미설정(http로만 접속) / 모바일 가로스크롤 발생,,2026-08-06,이메일 미발견
+4,2,노블정형외과의원,경기,성남분당구,031-896-7575,http://www.nobleos.com/,http://www.nobleos.com/shop_info/privacy.htm,1,HTTPS 미설정(http로만 접속) / 모바일 가로스크롤 발생,,2026-08-06,이메일 미발견
+4,2,노블클래식의원,경기,성남분당구,707-7930,http://www.nobleclassic.com/,https://nobleclassic.com/?privacy=terms&tabIdx=0,0,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생,,2026-08-06,이메일 미발견
+4,2,삼성항외과의원,경기,성남분당구,031-714-6588,http://www.cpsc.co.kr/,http://www.cpsc.co.kr/Module/Common/PopupPrivate_001.asp,0,HTTPS 미설정(http로만 접속) / 모바일 가로스크롤 발생,,2026-08-06,이메일 미발견
+4,2,씨앤피차앤박피부과의원,경기,성남분당구,031-709-7229,http://www.cnpskin.com/,https://www.cnpskin.com/pc/cnp/terms/privacy-notice.html,2,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생,,2026-08-06,공용/제작사 의심 제외: webding@cnpskin.com / 방침페이지
+4,2,정자씨앤피차앤박피부과의원,경기,성남분당구,031-715-0061,http://www.cnpskin.com/,https://www.cnpskin.com/pc/cnp/terms/privacy-notice.html,2,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생,,2026-08-06,공용/제작사 의심 제외: webding@cnpskin.com / 방침페이지
+4,2,본비뇨기과의원,경기,성남중원구,031-757-5759,http://www.moranuro.co.kr/index.asp,http://www.moranuro.co.kr/notice/notice_v.asp?srno=1862421,0,HTTPS 미설정(http로만 접속) / viewport 없음 — 모바일 미대응,,2026-08-06,이메일 미발견
+4,2,윤슬피부과의원,경기,수원권선구,031-687-8275,https://yoonseulskin.com/,https://yoonseulskin.com/#agreement_text,0,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / viewport 없음 — 모바일 미대응,,2026-08-06,이메일 미발견
+4,2,유앤미피부과의원,경기,수원영통구,031-206-8275,http://www.youbeauty.co.kr/,http://www.youbeauty.co.kr/page/?pid=privacy,2,HTTPS 미설정(http로만 접속) / viewport 없음 — 모바일 미대응,,2026-08-06,이메일 미발견
+4,2,노블클래식의원,경기,수원장안구,031-892-8168,http://www.nobleclassic.com/,https://nobleclassic.com/?privacy=terms&tabIdx=0,0,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생,,2026-08-06,이메일 미발견
+4,2,압구정코아지앤미의원,경기,수원장안구,031-255-3705,http://www.worlddoctor.co.kr/,http://www.worlddoctor.co.kr/bbs/content.php?co_id=privacy,0,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨,swing1984@naver.com,2026-08-06,방침페이지
+4,2,미앤미의원,경기,수원팔달구,031-246-1131,http://www.mipretty.co.kr/,http://www.mipretty.co.kr/member/peopleInfo.php,2,HTTPS 미설정(http로만 접속) / viewport 없음 — 모바일 미대응,,2026-08-06,공용/제작사 의심 제외: luckyhjlee@naver.com / 방침페이지
+4,2,차앤박피부과의원,경기,수원팔달구,031-241-3663,http://www.cnpskin.com/hos/main.php?groupid=cnpskin16,https://www.cnpskin.com/pc/cnp/terms/privacy-notice.html,1,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생,,2026-08-06,공용/제작사 의심 제외: webding@cnpskin.com / 방침페이지
+4,2,차앤박피부과의원,경기,안산단원구,031-405-7878,http://www.cnpskin.com/,https://www.cnpskin.com/pc/cnp/terms/privacy-notice.html,2,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생,,2026-08-06,공용/제작사 의심 제외: webding@cnpskin.com / 방침페이지
+4,2,프로포즈성형외과의원,경기,안산단원구,031-485-8275,http://propose-ps.co.kr/,http://propose-ps.co.kr/bbs/register.php,3,HTTPS 미설정(http로만 접속) / 모바일 가로스크롤 발생,,2026-08-06,이메일 미발견
+4,2,삼성본오의원,경기,안산상록구,031-418-0567,http://www.sbono.co.kr/,https://www.sbono.co.kr/bbs/content.php?co_id=privacy,1,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생,ssbono@naver.com,2026-08-06,방침페이지
+4,2,연세이원성형외과의원,경기,안양동안구,031-476-0021,http://www.e1clinic.com/,https://e1clinic.com/?privacy=terms&tabIdx=0,0,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생,,2026-08-06,이메일 미발견
+4,2,베르나르의원,경기,용인기흥구,031-8005-6633,http://www.bernard.co.kr/,https://bernard.co.kr/protection,2,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생,turtlefo@hanmail.net,2026-08-06,푸터/본문
+4,2,차앤박피부과의원,경기,의정부시,031-856-5353,http://www.cnpskin.com/,https://www.cnpskin.com/pc/cnp/terms/privacy-notice.html,2,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생,,2026-08-06,공용/제작사 의심 제외: webding@cnpskin.com / 방침페이지
+4,2,차앤박피부과의원,경기,평택시,031-651-9200,http://www.cnpskin.com/,https://www.cnpskin.com/pc/cnp/terms/privacy-notice.html,2,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생,,2026-08-06,공용/제작사 의심 제외: webding@cnpskin.com / 방침페이지
+4,2,미뉴얼의원,경기,화성동탄구,031-373-0317,http://dt.menewal.co.kr/,http://dt.menewal.co.kr/member/popupPrivacy.php,1,HTTPS 미설정(http로만 접속) / viewport 없음 — 모바일 미대응,,2026-08-06,이메일 미발견
+4,2,에르샤몽의원,경기,화성동탄구,031-376-0650,http://www.herchamondt.com/,http://www.herchamondt.com/shop_info/privacy.htm,0,HTTPS 미설정(http로만 접속) / 모바일 가로스크롤 발생,,2026-08-06,이메일 미발견
+4,2,노블클래식의원,경기,화성병점구,031-206-5533,http://www.nobleclassic.com/,https://nobleclassic.com/?privacy=terms&tabIdx=0,0,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생,,2026-08-06,이메일 미발견
+4,2,서울삼성내과의원,경기,화성병점구,031-231-0055,http://www.bssclinic.com/,http://www.bssclinic.com/notice/notice_v.asp?srno=1862421,0,HTTPS 미설정(http로만 접속) / viewport 없음 — 모바일 미대응,,2026-08-06,이메일 미발견
+4,2,10년전당신의오늘의원,서울,강남구,02-541-0333,http://www.chps.co.kr/,https://dreamwas.com/bbs/content.php?co_id=privacy,2,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / viewport 없음 — 모바일 미대응,,2026-08-06,이메일 미발견
+4,2,강남비엘에스의원,서울,강남구,02-6677-2777,https://www.blsclinic8.com/,https://www.blsclinic8.com/policy/privacyPolicy.php,1,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생,,2026-08-06,이메일 미발견
+4,2,뉴엘의원,서울,강남구,02-515-9998,http://www.nuelclinic.com/,https://www.nuelclinic.com/bbs/content.php?co_id=privacy,1,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / viewport 없음 — 모바일 미대응,,2026-08-06,이메일 미발견
+4,2,도곡리더스피부과의원,서울,강남구,02-575-2300,http://www.beautyleader.co.kr/,https://beautyleader.co.kr/bbs/content.php?co_id=privacy,1,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / viewport 없음 — 모바일 미대응,,2026-08-06,공용/제작사 의심 제외: master@beautyleader.co.kr / 푸터/본문
+4,2,디앤에이피부과의원,서울,강남구,02-3444-1003,http://www.dnaskin.co.kr/,https://dnaskin.co.kr/bbs/content.php?co_id=privacy,0,HTTPS 미설정(http로만 접속) / 모바일 가로스크롤 발생,,2026-08-06,이메일 미발견
+4,2,라프린의원,서울,강남구,517-7811,http://laprinps.com/,https://laprinps.com/page/policy.php?pageIndex=910150,4,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생,laprinkorea@gmail.com,2026-08-06,푸터/본문
+4,2,루피엘의원,서울,강남구,02-516-8890,http://www.lupiel.co.kr/,http://www.lupiel.co.kr/sub/etc/privacy.php,0,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨,lupiel@lupiel.co.kr,2026-08-06,푸터/본문
+4,2,리더스피부과의원,서울,강남구,02-2088-7828,http://www.beautyleader.co.kr/,https://beautyleader.co.kr/bbs/content.php?co_id=privacy,1,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / viewport 없음 — 모바일 미대응,,2026-08-06,공용/제작사 의심 제외: master@beautyleader.co.kr / 푸터/본문
+4,2,리오브피부과의원,서울,강남구,02-6958-8815,https://reorbskin.com/,https://reorbskin.com/bbs/content.php?co_id=privacy,0,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생,,2026-08-06,이메일 미발견
+4,2,릴리브의원,서울,강남구,02-2138-2775,https://www.relieveclinic.co.kr/,https://www.relieveclinic.co.kr/members/privacy.php,1,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생,relieve5@naver.com,2026-08-06,푸터/본문
+4,2,매직피부과의원,서울,강남구,02-3453-3114,http://www.emagicskin.com/,https://www.emagicskin.com/bbs/content.php?co_id=privacy,2,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / viewport 없음 — 모바일 미대응,pigges@daum.net,2026-08-06,방침페이지
+4,2,모델로피부과의원,서울,강남구,02-591-5851,http://www.modelo.co.kr/,http://www.modelo.co.kr/bbs/content.php?co_id=privacy,1,HTTPS 미설정(http로만 접속) / 모바일 가로스크롤 발생,didi9213@modelo.co.kr,2026-08-06,방침페이지
+4,2,미인피부과의원,서울,강남구,02-594-3375,http://www.meinclinic.com/,http://www.meinclinic.com/terms/#tab-3a8c8ba7-bbdd-3,1,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨,,2026-08-06,이메일 미발견
+4,2,벨로의원,서울,강남구,02-545-1202,https://www.belloclinic.com/,https://bellomedical.imweb.me/?mode=privacy,0,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생,,2026-08-06,이메일 미발견
+4,2,세진피부과의원,서울,강남구,02-515-2741,http://www.sejinskin.com/,http://www.sejinskin.com/#pop03,1,HTTPS 미설정(http로만 접속) / 모바일 가로스크롤 발생,,2026-08-06,이메일 미발견
+4,2,씨앤피차앤박피부과의원,서울,강남구,02-515-2100,http://www.cnpskin.com/,https://www.cnpskin.com/pc/cnp/terms/privacy-notice.html,2,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생,,2026-08-06,공용/제작사 의심 제외: webding@cnpskin.com / 방침페이지
+4,2,압구정디오성형외과의원,서울,강남구,02-514-0350,http://www.dio-ps.com/,https://www.dio-ps.com/html/108,0,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생,psmdchoi@naver.com,2026-08-06,방침페이지
+4,2,압구정리더스피부과의원,서울,강남구,1588-7333,http://www.beautyleader.co.kr/,https://beautyleader.co.kr/bbs/content.php?co_id=privacy,1,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / viewport 없음 — 모바일 미대응,,2026-08-06,공용/제작사 의심 제외: master@beautyleader.co.kr / 푸터/본문
+4,2,압구정맘모스헤어라인의원,서울,강남구,02-518-8782,http://www.mammothseoul.com/,https://www.mammothseoul.com/index.php/member/agreement/10,1,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / viewport 없음 — 모바일 미대응,,2026-08-06,이메일 미발견
+4,2,양재차앤박피부과의원,서울,강남구,3463-2400,http://www.cnpskin.com/,https://www.cnpskin.com/pc/cnp/terms/privacy-notice.html,2,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생,,2026-08-06,공용/제작사 의심 제외: webding@cnpskin.com / 방침페이지
+4,2,에버피부과의원,서울,강남구,02-795-9553,http://www.clinicever.co.kr/,https://www.clinicever.co.kr/#,1,모바일 가로스크롤 발생 / 푸터 카피라이트 2020 — 방치 인상,clinicever2@naver.com,2026-08-06,푸터/본문(mailto)
+4,2,에스원성형외과의원,서울,강남구,02-546-8859,http://www.sonebk.com/,http://www.sonebk.com/shop_info/privacy.htm,1,HTTPS 미설정(http로만 접속) / 모바일 가로스크롤 발생,,2026-08-06,이메일 미발견
+4,2,일공공성형외과의원,서울,강남구,02-541-0011,http://100plasticsurgery.com/,https://www.100plasticsurgery.com/privacy.html,0,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생,100psps@naver.com,2026-08-06,방침페이지
+4,2,제이와이성형외과의원,서울,강남구,02-512-5800,http://jy-clinic.com/,http://jy-clinic.com/other/other01.php,1,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨,,2026-08-06,이메일 미발견
+4,2,조앤박의원,서울,강남구,02-517-8830,http://www.joandpark.com/,http://www.joandpark.com/bbs/page.php?hid=privacy,3,HTTPS 미설정(http로만 접속) / viewport 없음 — 모바일 미대응,jpclinic8830@naver.com,2026-08-06,푸터/본문
+4,2,창피부과의원,서울,강남구,02-538-3575,http://www.changskin.com/,https://www.changskin.com/index.php/member/privacy/207,1,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / viewport 없음 — 모바일 미대응,info@changskin.com,2026-08-06,대표계정 형태 — 확인 권장 / 푸터/본문
+4,2,청담엔샤인의원,서울,강남구,,https://nshineclinic.co.kr/,https://nshineclinic.co.kr/bbs/content.php?co_id=privacy,0,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생,,2026-08-06,이메일 미발견
+4,2,큐에이성형외과의원,서울,강남구,02-548-1103,https://www.qaps.co.kr/,https://www.qaps.co.kr/etc/privacy.php,0,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생,,2026-08-06,이메일 미발견
+4,2,팝성형외과의원,서울,강남구,545-0025,https://pop-ps.com/,https://pop-ps.com/info/privacy,1,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생,,2026-08-06,이메일 미발견
+4,2,미리의원,서울,강동구,470-1175,http://www.mipretty.co.kr/,http://www.mipretty.co.kr/member/peopleInfo.php,2,HTTPS 미설정(http로만 접속) / viewport 없음 — 모바일 미대응,,2026-08-06,공용/제작사 의심 제외: luckyhjlee@naver.com / 방침페이지
+4,2,위드피부과의원,서울,강동구,02-428-0990,http://www.withderma.co.kr/,http://www.withderma.co.kr/notice/notice_v.asp?srno=1862421,0,HTTPS 미설정(http로만 접속) / viewport 없음 — 모바일 미대응,,2026-08-06,이메일 미발견
+4,2,차앤박피부과의원,서울,강동구,02-485-4650,http://www.cnpskin.com/,https://www.cnpskin.com/pc/cnp/terms/privacy-notice.html,2,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생,,2026-08-06,공용/제작사 의심 제외: webding@cnpskin.com / 방침페이지
+4,2,노블클래식의원,서울,강북구,02-988-0057,http://www.nobleclassic.com/,https://nobleclassic.com/?privacy=terms&tabIdx=0,0,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생,,2026-08-06,이메일 미발견
+4,2,미애로여성의원,서울,강북구,02-996-4500,http://www.miaerosu.com/,http://www.miaerosu.com/shop_info/privacy.htm,2,HTTPS 미설정(http로만 접속) / 모바일 가로스크롤 발생,,2026-08-06,이메일 미발견
+4,2,방외과의원,서울,강북구,02-984-1255,http://www.barng.co.kr/,http://www.barng.co.kr/privacy.html?PHPSESSID=a9b499c00c730a9d79bbe639735cf8ae,1,HTTPS 미설정(http로만 접속) / 푸터 카피라이트 2016 — 방치 인상,drbarng@naver.com,2026-08-06,방침페이지
+4,2,샤인의원,서울,강북구,02-989-7654,https://shineclinic.kr/,https://shineclinic.kr/bbs/content.php?co_id=privacy,0,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생,shine9897654@naver.com,2026-08-06,방침페이지
+4,2,엘앤에스비뇨기과의원,서울,강북구,02-988-1151,http://www.lnsclinic.com/,http://www.lnsclinic.com/bbs/content.php?co_id=privacy,2,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨,lnsclinic1@naver.com,2026-08-06,푸터/본문
+4,2,푸름외과의원,서울,강북구,02-981-6006,http://epurum.net/,http://epurum.net/?page_id=2699,0,HTTPS 미설정(http로만 접속) / 푸터 카피라이트 2013 — 방치 인상,1purum@gmail.com,2026-08-06,푸터/본문(mailto)
+4,2,셀로디피부과의원 강서점,서울,강서구,02-3664-1675,https://ks.cellodyskin.com/,https://ks.cellodyskin.com/bbs/content.php?co_id=privacy,0,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생,,2026-08-06,이메일 미발견
+4,2,코앤유의원,서울,강서구,02-2661-0567,http://www.conyou.co.kr/,http://www.conyou.co.kr/#none,2,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨,beautydr@hotmail.com,2026-08-06,푸터/본문
+4,2,하나메디퀸즈의원,서울,강서구,,http://hanamediqueens.com/,http://hanamediqueens.com/#,0,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨,,2026-08-06,이메일 미발견
+4,2,미인의원,서울,구로구,02-858-6008,http://miinclinic.kr/,http://www.miinclinic.kr/shop_info/privacy.htm,0,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨,,2026-08-06,이메일 미발견
+4,2,슈퍼스타피부과의원,서울,구로구,02-859-7579,http://www.superskin.co.kr/,http://www.superskin.co.kr/member/privacy.html,0,HTTPS 미설정(http로만 접속) / viewport 없음 — 모바일 미대응,,2026-08-06,이메일 미발견
+4,2,지앤산부인과의원,서울,구로구,02-852-2828,http://www.jiaen.co.kr/,http://www.jiaen.co.kr/common/html/privacy.html,0,HTTPS 미설정(http로만 접속) / 푸터 카피라이트 2018 — 방치 인상,juliet526@naver.com,2026-08-06,방침페이지
+4,2,차앤박피부과의원,서울,노원구,02-933-0571,http://www.cnpskin.com/hos/main.php?groupid=cnpskin18,https://www.cnpskin.com/pc/cnp/terms/privacy-notice.html,1,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생,,2026-08-06,공용/제작사 의심 제외: webding@cnpskin.com / 방침페이지
+4,2,태릉본비뇨기과의원,서울,노원구,02-960-8108,http://www.bornuro.co.kr/,http://www.bornuro.co.kr/?mode=privacy,1,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨,,2026-08-06,이메일 미발견
+4,2,피오나여성의원,서울,노원구,02-951-7111,http://www.fionaclinic.co.kr/,http://www.fionaclinic.co.kr/?mode=privacy,1,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨,,2026-08-06,이메일 미발견
+4,2,더샤인한스의원,서울,도봉구,990-3002,http://mantamo.com/,http://mantamo.com/?mode=privacy,3,HTTPS 미설정(http로만 접속) / 푸터 카피라이트 2011 — 방치 인상,,2026-08-06,이메일 미발견
+4,2,서울항맥외과의원,서울,도봉구,02-997-0700,http://www.anovein.com/,http://www.anovein.com/shop_info/privacy.htm,1,HTTPS 미설정(http로만 접속) / 모바일 가로스크롤 발생,,2026-08-06,이메일 미발견
+4,2,연세애드미피부과의원,서울,도봉구,02-906-1400,http://www.addbeauty.co.kr/,http://www.addmiskin.com/info_ma,5,HTTPS 미설정(http로만 접속) / viewport 없음 — 모바일 미대응,beauskin@naver.com,2026-08-06,방침페이지
+4,2,더힐피부과의원,서울,동대문구,02-960-3469,https://thehealddm.com/,https://thehealddm.com/bbs/content.php?co_id=privacy,0,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / viewport 없음 — 모바일 미대응,,2026-08-06,이메일 미발견
+4,2,미소퀸산부인과의원,서울,마포구,02-704-9988,http://www.misoqueen.co.kr/,http://www.misoqueen.co.kr/?menu=38,1,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨,drkkkim@naver.com,2026-08-06,방침페이지
+4,2,메이저피부과의원 신촌점,서울,서대문구,02-392-7582,http://majorskin.co.kr/,https://majorskin.co.kr/?privacy=terms&tabIdx=0,0,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생,,2026-08-06,이메일 미발견
+4,2,차앤박피부과의원,서울,서대문구,02-3147-0300,http://www.cnpskin.com/,https://www.cnpskin.com/pc/cnp/terms/privacy-notice.html,2,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생,,2026-08-06,공용/제작사 의심 제외: webding@cnpskin.com / 방침페이지
+4,2,강남연세재활의학과의원,서울,서초구,02-3478-0216,http://www.ksspine.co.kr/,http://ksspine.co.kr/?mode=privacy,1,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨,,2026-08-06,이메일 미발견
+4,2,고익수성형외과의원,서울,서초구,02-3446-7100,http://www.petit.co.kr/,http://www.petit.co.kr/bbs/content.php?co_id=privacy,0,HTTPS 미설정(http로만 접속) / 푸터 카피라이트 2019 — 방치 인상,,2026-08-06,이메일 미발견
+4,2,김연진의 퓨린피부과의원,서울,서초구,3477-7070,http://www.pureen.co.kr/,http://www.pureen.co.kr/privacy.html,0,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨,ceo@pureen.co.kr,2026-08-06,하위페이지(mailto)
+4,2,메종드엠의원,서울,서초구,02-533-7001,https://mdem.co.kr/,https://mdem.co.kr/member/policy.jsp,2,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생,,2026-08-06,이메일 미발견
+4,2,바롬의원,서울,서초구,02-594-3644,http://www.varomclinic.co.kr/,https://www.varomclinic.co.kr/privacy,0,모바일 가로스크롤 발생 / 푸터 카피라이트 2007 — 방치 인상,,2026-08-06,이메일 미발견
+4,2,본아이성형외과의원,서울,서초구,02-1899-7233,http://www.boneeye.co.kr/,https://www.boneeye.co.kr/theme/weaver/bbs/privacy.php,1,모바일 가로스크롤 발생 / 푸터 카피라이트 2016 — 방치 인상,boneeye@boneeye.co.kr,2026-08-06,방침페이지
+4,2,브라운성형외과의원,서울,서초구,02-518-2400,http://www.braunps.co.kr/,https://www.braunps.co.kr/bbs/page.php?hid=privacy,3,모바일 가로스크롤 발생 / 푸터 카피라이트 2009 — 방치 인상,jkahn3384@nate.com,2026-08-06,방침페이지
+4,2,아티크의원,서울,서초구,02-532-7700,https://artiqueclinic.com/,https://artiqueclinic.com/bbs/content.php?co_id=privacy,1,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생,,2026-08-06,이메일 미발견
+4,2,알유(RU)성형외과의원,서울,서초구,02-594-4000,https://www.ruprs.com/,https://www.ruprs.com/bbs/content.php?co_id=privacy,0,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생,,2026-08-06,이메일 미발견
+4,2,연세스타피부과의원,서울,서초구,02-582-0828,http://www.mystarskin.co.kr/,https://www.mystarskin.co.kr/index.php/member/privacy/51,2,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / viewport 없음 — 모바일 미대응,,2026-08-06,이메일 미발견
+4,2,완성형외과의원,서울,서초구,02-546-0222,https://wanprs.com/,https://wanprs.com/bbs/content.php?co_id=privacy,0,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생,,2026-08-06,이메일 미발견
+4,2,위즈미여성의원,서울,서초구,02-2651-3030,http://wmclinic.co.kr/,http://wmclinic.co.kr/page/?pid=privacy,2,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨,ceo@cknetworks.co.kr,2026-08-06,하위페이지
+4,2,지디에스성형외과의원,서울,서초구,02-573-7515,http://www.gdsprs.com/,http://www.gdsprs.com/bbs/content.php?co_id=privacy,0,HTTPS 미설정(http로만 접속) / viewport 없음 — 모바일 미대응,kcw6769@naver.com,2026-08-06,푸터/본문
+4,2,지앤영피부과의원,서울,서초구,02-3486-2420,http://www.gnyoungskin.com/,http://www.gnyoungskin.com/bbs/content.php?co_id=privacy,0,HTTPS 미설정(http로만 접속) / 모바일 가로스크롤 발생,,2026-08-06,이메일 미발견
+4,2,차민성형외과의원,서울,서초구,02-517-0120,http://chaminst.com/,http://chaminst.com/bbs/content.php?co_id=privacy,1,HTTPS 미설정(http로만 접속) / 푸터 카피라이트 2022 — 방치 인상,,2026-08-06,이메일 미발견
+4,2,톡스앤필의원,서울,서초구,534-4842,http://www.blsclinic.com/,https://www.blsclinic.com/brand/policy/privacyPolicy.php,0,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생,,2026-08-06,공용/제작사 의심 제외: help@triupcorp.com bbg@bbgnetworks.com / 방침페이지
+4,2,메이저피부과의원,서울,성북구,02-927-1925,http://majorskin.co.kr/,https://majorskin.co.kr/?privacy=terms&tabIdx=0,0,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생,,2026-08-06,이메일 미발견
+4,2,차앤박피부과의원,서울,성북구,02-922-2900,http://www.cnpskin.com/,https://www.cnpskin.com/pc/cnp/terms/privacy-notice.html,2,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생,,2026-08-06,공용/제작사 의심 제외: webding@cnpskin.com / 방침페이지
+4,2,박신성내과의원,서울,송파구,02-412-7582,http://www.sclinic.kr/index.asp,http://www.sclinic.kr/notice/notice_v.asp?srno=1862421,0,HTTPS 미설정(http로만 접속) / viewport 없음 — 모바일 미대응,,2026-08-06,이메일 미발견
+4,2,예미고피부과의원,서울,송파구,02-425-0044,http://www.yemigo.co.kr/,https://www.yemigo.co.kr/#,1,모바일 가로스크롤 발생 / 푸터 카피라이트 2019 — 방치 인상,,2026-08-06,이메일 미발견
+4,2,리더스피부과의원,서울,양천구,02-2163-3973,http://www.beautyleader.co.kr/,https://beautyleader.co.kr/bbs/content.php?co_id=privacy,1,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / viewport 없음 — 모바일 미대응,,2026-08-06,공용/제작사 의심 제외: master@beautyleader.co.kr / 푸터/본문
+4,2,리엔뉴의원,서울,영등포구,02-785-0095,http://www.rennew.co.kr/,http://www.rennew.co.kr/etc/page04.php,13,HTTPS 미설정(http로만 접속) / 푸터 카피라이트 2021 — 방치 인상,,2026-08-06,이메일 미발견
+4,2,림스내과의원,서울,영등포구,02-836-8882,http://drlims.com/,http://ww547.drlims.com/privacy,0,HTTPS 미설정(http로만 접속) / tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨,support@online-tools.net,2026-08-06,대표계정 형태 — 확인 권장 / 방침페이지
+4,2,봄여름가을겨울피부과의원,서울,영등포구,02-2638-2045,http://www.ydp4clinic.co.kr/,http://www.ydp4clinic.co.kr/privacy.php,0,HTTPS 미설정(http로만 접속) / 푸터 카피라이트 2021 — 방치 인상,,2026-08-06,이메일 미발견
+4,2,새로운내과의원,서울,영등포구,02-2634-0771,https://www.saerounim.com/,https://www.saerounim.com/#,1,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생,,2026-08-06,이메일 미발견
+4,2,CNP차앤박피부과의원,서울,영등포구,02-786-5123,http://www.cnpskin.com/hos/main.php?groupid=cnpskin03,https://www.cnpskin.com/pc/cnp/terms/privacy-notice.html,1,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생,,2026-08-06,공용/제작사 의심 제외: webding@cnpskin.com / 방침페이지
+4,2,명동리더스피부과의원,서울,중구,02-6677-1945,http://www.beautyleader.co.kr/,https://beautyleader.co.kr/bbs/content.php?co_id=privacy,1,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / viewport 없음 — 모바일 미대응,,2026-08-06,공용/제작사 의심 제외: master@beautyleader.co.kr / 푸터/본문
+4,2,씨앤피차앤박피부과의원,서울,중구,777-2488,http://www.cnpskin.com/,https://www.cnpskin.com/pc/cnp/terms/privacy-notice.html,2,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생,,2026-08-06,공용/제작사 의심 제외: webding@cnpskin.com / 방침페이지
+4,2,포에버의원,서울,중구,02-779-7771,https://md.foreverclinic.co.kr/,https://foreverclinic.co.kr/ko/privacy,0,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨 / 모바일 가로스크롤 발생,4evermdss@gmail.com,2026-08-06,푸터/본문
+5,1,일산고운세상피부과의원,경기,고양일산동구,031-932-8275,http://www.beautyforever.co.kr/,https://www.beautyforever.co.kr/etc/privacy.php,3,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨,,2026-08-06,이메일 미발견
+5,1,예지안의원,경기,고양일산서구,031-925-4824,http://www.yejian.co.kr/,http://www.yejian.co.kr/shop_info/privacy.htm,0,HTTPS 미설정(http로만 접속),,2026-08-06,이메일 미발견
+5,1,닥터클로버의원,경기,과천시,02-3679-4698,https://drcloverclinic.com/,https://drcloverclinic.com/?mode=privacy,0,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨,,2026-08-06,이메일 미발견
+5,1,삼성맑은비뇨기과의원,경기,광주시,031-766-0360,http://spure-clinic.com/,http://spure-clinic.com/?mode=privacy,0,HTTPS 미설정(http로만 접속),,2026-08-06,이메일 미발견
+5,1,유앤아이의원,경기,광주시,031-797-6020,https://www.ggjuni114.co.kr/,https://www.ggjuni114.co.kr/info/,0,모바일 가로스크롤 발생,,2026-08-06,공용/제작사 의심 제외: mdvision@nate.com / 방침페이지
+5,1,덕소엔비의원,경기,남양주시,577-3933,http://nbcare.co.kr/,https://nbcare.co.kr/bbs/content.php?co_id=privacy,0,푸터 카피라이트 2016 — 방치 인상,,2026-08-06,이메일 미발견
+5,1,뷰티온의원 별내점,경기,남양주시,031-529-0904,https://byeolnae.beautyon.co.kr/intro,https://byeolnae.beautyon.co.kr/privacy,1,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨,,2026-08-06,이메일 미발견
+5,1,의료법인운천의료재단메디홀스의원,경기,부천소사구,032-343-4114,http://www.medihols.co.kr/,http://www.medihols.co.kr/bbs/register.php,0,HTTPS 미설정(http로만 접속),,2026-08-06,이메일 미발견
+5,1,경인의원,경기,부천원미구,032-326-1843,http://kiss1843.com/,https://xn--289asev69ei3a.com/%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EB%B0%A9%EC%B9%A8,0,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨,,2026-08-06,이메일 미발견
+5,1,로즈피부과의원,경기,성남분당구,031-714-9970,http://www.roseclinic.kr/,https://www.roseclinic.kr/2024/content/privacy.html,0,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨,mizzi@naver.com,2026-08-06,방침페이지
+5,1,오월의아침피부과의원,경기,성남분당구,031-717-5207,http://www.maymorning.kr/,http://www.maymorning.kr/bbs/content.php?co_id=privacy,0,HTTPS 미설정(http로만 접속),skindoc4you@hanmail.net,2026-08-06,방침페이지
+5,1,파워비뇨의학과의원,경기,성남분당구,031-609-9988,https://powerurology.com/,https://powerurology.com/?mode=privacy,2,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨,jpoweruro@naver.com,2026-08-06,푸터/본문(mailto)
+5,1,해피닥터의원,경기,성남분당구,031-704-0008,http://www.happydoctor.co.kr/,http://www.happydoctor.co.kr/content/privacy,2,HTTPS 미설정(http로만 접속),,2026-08-06,이메일 미발견
+5,1,뷰티온의원,경기,성남수정구,031-8039-7579,https://seongnam.beautyon.co.kr/,https://seongnam.beautyon.co.kr/privacy,1,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨,,2026-08-06,이메일 미발견
+5,1,닥터셀의원,경기,수원권선구,031-222-5211,http://www.cellclinic.net/,http://www.cellclinic.net/?mode=privacy,1,HTTPS 미설정(http로만 접속),,2026-08-06,이메일 미발견
+5,1,신세계외과의원,경기,수원권선구,031-271-2251,http://www.ssg-clinic.com/,http://www.ssg-clinic.com/shop_info/privacy.htm,1,HTTPS 미설정(http로만 접속),,2026-08-06,이메일 미발견
+5,1,바이킴피부과의원,경기,수원영통구,031-215-8277,http://www.bykim.co.kr/,https://www.bykim.co.kr/privacy,5,모바일 가로스크롤 발생,bykimderma@naver.com,2026-08-06,푸터/본문
+5,1,뷰티온의원 수원망포점,경기,수원영통구,031-203-7570,https://mangpo.beautyon.co.kr/,https://mangpo.beautyon.co.kr/privacy,1,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨,,2026-08-06,이메일 미발견
+5,1,앤더슨비뇨기과의원,경기,수원팔달구,031-222-5055,http://www.pinkclinic.co.kr/,https://pinkclinic.co.kr/%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EB%B0%A9%EC%B9%A8,0,모바일 가로스크롤 발생,,2026-08-06,이메일 미발견
+5,1,소이엘의원,경기,안산단원구,031-402-4842,http://soiel.kr/,https://soiel.kr/,2,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨,,2026-08-06,이메일 미발견
+5,1,유앤아이의원 안산점,경기,안산단원구,031-8042-6025,https://www.asuni114.co.kr/,https://www.asuni114.co.kr/info/,0,모바일 가로스크롤 발생,,2026-08-06,공용/제작사 의심 제외: mdvision@nate.com / 방침페이지
+5,1,평촌고운세상피부과의원,경기,안양동안구,031-385-2100,http://www.beautyforever.co.kr/,https://www.beautyforever.co.kr/etc/privacy.php,3,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨,,2026-08-06,이메일 미발견
+5,1,베리미의원,경기,양주시,031-864-7582,https://yangju.veryme.co.kr/,https://yangju.veryme.co.kr/privacy,1,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨,,2026-08-06,이메일 미발견
+5,1,뷰티온피부과의원 양주옥정점,경기,양주시,031-861-4447,https://yangju.beautyon.co.kr/,https://yangju.beautyon.co.kr/privacy,1,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨,,2026-08-06,이메일 미발견
+5,1,유앤아이의원,경기,의정부시,031-894-5977,https://www.ujbuni114.co.kr/,https://www.ujbuni114.co.kr/info/,0,모바일 가로스크롤 발생,,2026-08-06,공용/제작사 의심 제외: mdvision@nate.com / 방침페이지
+5,1,스노우의원,경기,파주시,031-941-0912,https://paju-snow.co.kr/,https://paju-snow.co.kr/policies,0,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨,snowgmlwo@naver.com,2026-08-06,방침페이지
+5,1,리톤의원,경기,평택시,031-8029-5577,http://retoneclinic.com/,https://retoneclinic.com/?mode=privacy,0,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨,retone_clinic@naver.com,2026-08-06,푸터/본문
+5,1,우리메디의원,경기,평택시,031-682-4999,https://woorimediclinic.kr/,https://woorimediclinic.kr/doc/private,4,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨,official@woorimediclinic.kr,2026-08-06,푸터/본문
+5,1,유앤아이의원,경기,평택시,031-647-6618,https://www.ptuni114.co.kr/,https://www.ptuni114.co.kr/info/,0,모바일 가로스크롤 발생,,2026-08-06,공용/제작사 의심 제외: mdvision@nate.com / 방침페이지
+5,1,닥터에버스의원 미사점,경기,하남시,031-8027-8717,https://evers11.co.kr/,https://evers11.co.kr/?mode=privacy,0,모바일 가로스크롤 발생,help11@drevers.co.kr,2026-08-06,푸터/본문
+5,1,화성향남뷰티온의원,경기,화성만세구,031-353-7510,https://hyangnam.beautyon.co.kr/,https://hyangnam.beautyon.co.kr/privacy,1,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨,,2026-08-06,이메일 미발견
+5,1,(의)성광의료재단 차움의원,서울,강남구,02-3015-5000,http://www.chaum.net/,https://www.chaum.net/member/information.cha,1,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨,,2026-08-06,과다검출 7건(체인 지점 목록 추정) — 사람 확인 필요: drjkim_ci@chamc.co.kr bjh@chamc.co.kr minoh@chamc.co.kr ballese@chamc.co.kr gnaskl@chamc.co.kr
+5,1,747의원,서울,강남구,02-546-0747,http://747clinic.com/,http://747clinic.com/,2,HTTPS 미설정(http로만 접속),,2026-08-06,이메일 미발견
+5,1,강남고운세상피부과의원,서울,강남구,02-3477-2020,http://www.beautyforever.co.kr/,https://www.beautyforever.co.kr/etc/privacy.php,3,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨,,2026-08-06,이메일 미발견
+5,1,강남삼성드림이비인후과의원,서울,강남구,02-539-0365,http://ssdream.co.kr/,https://www.ssdream.co.kr/front/member/join1.php#agreement,5,푸터 카피라이트 2015 — 방치 인상,,2026-08-06,이메일 미발견
+5,1,강남유앤아이의원,서울,강남구,02-6927-6022,http://www.uni114.co.kr/,https://www.uni114.co.kr/info/,0,모바일 가로스크롤 발생,,2026-08-06,공용/제작사 의심 제외: mdvision@nate.com / 방침페이지
+5,1,강남하트스캔의원,서울,강남구,564-3070,http://www.heartscan.co.kr/,https://heartscan.co.kr/%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EB%B0%A9%EC%B9%A8,0,모바일 가로스크롤 발생,ski1996@heartscan.co.kr ; wongugi@heartscan.co.kr,2026-08-06,복수 발견 — 하나 선택 필요 / 방침페이지
+5,1,그로브원피부과의원,서울,강남구,2,https://www.groveoneskin.com/,https://www.groveoneskin.com/legal/privacy,0,모바일 가로스크롤 발생,groveoneskin@gmail.com,2026-08-06,푸터/본문(mailto)
+5,1,글로리의원,서울,강남구,02-6958-7525,http://www.gloryclinic.co.kr/,http://www.gloryclinic.co.kr/terms/personal,0,HTTPS 미설정(http로만 접속),,2026-08-06,이메일 미발견
+5,1,라인앤뷰의원,서울,강남구,02-1600-9833,https://www.linenview.com/,https://www.linenview.com/privacy,1,모바일 가로스크롤 발생,,2026-08-06,이메일 미발견
+5,1,로얄라인의원,서울,강남구,02-540-8868,http://www.ryline-clinic.com/,http://www.ryline-clinic.com/member/privacy.php,1,HTTPS 미설정(http로만 접속),contact@royallineclinic.com,2026-08-06,대표계정 형태 — 확인 권장 / 방침페이지
+5,1,로웰성형외과의원,서울,강남구,0507-1471-1454,http://www.lowellprs.com/,https://www.lowellprs.com/bbs/content.php?co_id=privacy,1,HTTPS 미설정(http로만 접속),lowellprs@naver.com,2026-08-06,방침페이지
+5,1,르디테의원,서울,강남구,02-6085-0578,https://ledetail.kr/,https://www.ledetail.kr/privacy,0,모바일 가로스크롤 발생,,2026-08-06,이메일 미발견
+5,1,리무브의원,서울,강남구,02-2038-8037,https://removeclinic.com/,https://removeclinic.com/terms_page/privacy-policy/,0,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨,remove_choi@naver.com,2026-08-06,방침페이지
+5,1,마인성형외과의원,서울,강남구,516-1175,http://www.mineps.com/,https://mineps.com/personal_policy/,3,모바일 가로스크롤 발생,,2026-08-06,이메일 미발견
+5,1,모던스탠다드의원,서울,강남구,02-6232-5732,https://modern-standard.co.kr/,https://modern-standard.co.kr/?mode=privacy,1,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨,modernstandard.clinic@gmail.com,2026-08-06,푸터/본문
+5,1,모두모의원,서울,강남구,02-591-9559,https://mdmclinic.com/,https://mdmclinic.com/mdm/privacy,5,푸터 카피라이트 2022 — 방치 인상,,2026-08-06,이메일 미발견
+5,1,미오의원,서울,강남구,02-558-5550,https://www.mioclinic.co.kr/,https://www.mioclinic.kr/ko/legal/privacy,0,모바일 가로스크롤 발생,,2026-08-06,이메일 미발견
+5,1,민의원,서울,강남구,02-515-2119,http://www.min-clinic.co.kr/,https://min-clinic.co.kr/privacy-policy-2/,3,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨,,2026-08-06,이메일 미발견
+5,1,바바성형외과의원,서울,강남구,02-6207-8570,https://vavaps.com/,https://vavaps.com/bbs/content.php?co_id=privacy,2,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨,,2026-08-06,이메일 미발견
+5,1,비티큐의원,서울,강남구,070-4131-9048,https://www.btq.co.kr/,https://btq.co.kr/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjE0MzUwIiwidG9nZ2xlIjpmYWxzZX0%3D,1,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨,info@btq.co.kr,2026-08-06,대표계정 형태 — 확인 권장 / 푸터/본문
+5,1,소요의원,서울,강남구,02-511-0050,http://www.soyoclinic.com/,https://www.soyoclinic.com/privacy,1,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨,info@soyoclinic.com,2026-08-06,대표계정 형태 — 확인 권장 / 푸터/본문
+5,1,신유외과의원,서울,강남구,02-557-6075,http://www.sbreast.co.kr/,http://sbreast.com/?mode=privacy,0,HTTPS 미설정(http로만 접속),,2026-08-06,이메일 미발견
+5,1,아도의원,서울,강남구,02-567-4110,https://www.adoclinic.com/,https://www.adoclinic.com/privacy,0,모바일 가로스크롤 발생,ado.clinic.gangnam@gmail.com,2026-08-06,푸터/본문(mailto)
+5,1,아이델성형외과의원,서울,강남구,02-3442-5900,http://www.idelps.com/,https://www.idelps.com/theme/sekti/bbs/privacy.php,0,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨,2685811@hanmail.net,2026-08-06,방침페이지
+5,1,에스원이비인후과의원,서울,강남구,02-516-8871,http://www.soneps.com/,http://www.soneps.com/bbs/content.php?co_id=privacy,1,HTTPS 미설정(http로만 접속),bknoh2000@naver.co.kr,2026-08-06,방침페이지
+5,1,에이트성형외과의원,서울,강남구,1855-0858,https://www.eightprs.com/,https://www.eightprs.com/page/privacy,2,푸터 카피라이트 2020 — 방치 인상,,2026-08-06,공용/제작사 의심 제외: eight025152550@gmail.com / 방침페이지
+5,1,엔비유의원,서울,강남구,02-323-3993,http://www.nvu.co.kr/,https://nvu.co.kr/member/privacy.html,0,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨,,2026-08-06,이메일 미발견
+5,1,연세미타임피부과의원,서울,강남구,02-508-5881,http://www.metime.co.kr/,http://metime.co.kr/Privacy-Policy/,0,HTTPS 미설정(http로만 접속),metimeskin@gmail.com,2026-08-06,푸터/본문
+5,1,연세선우의원,서울,강남구,02-563-1469,http://www.sunwooclinic.com/,http://www.sunwooclinic.com/default/info2.php,0,HTTPS 미설정(http로만 접속),fmhan216@daum.net,2026-08-06,푸터/본문
+5,1,연세아이미스템의원,서울,강남구,02-6014-3100,http://www.imistemcell.com/,http://www.imistemcell.com/bbs/content.php?co_id=privacy,0,HTTPS 미설정(http로만 접속),barunseoulos@naver.com,2026-08-06,방침페이지
+5,1,오드의원,서울,강남구,02-569-0222,http://www.odeclinic.co.kr/,https://odeclinicseoul.com/ko/privacy,1,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨,odeclinic@naver.com,2026-08-06,방침페이지
+5,1,제니의원,서울,강남구,02-511-1535,http://www.jennyclinic.kr/,http://www.jennyclinic.kr/?mode=privacy,3,HTTPS 미설정(http로만 접속),,2026-08-06,이메일 미발견
+5,1,젬마의원,서울,강남구,518-0057,http://www.gemmahair.com/,http://www.gemmahair.com/,1,HTTPS 미설정(http로만 접속),,2026-08-06,이메일 미발견
+5,1,청담고운세상닥터지피부과의원,서울,강남구,02-541-8547,http://www.beautyforever.co.kr/,https://www.beautyforever.co.kr/etc/privacy.php,3,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨,,2026-08-06,이메일 미발견
+5,1,청담파크의원,서울,강남구,02-3445-8819,http://www.clinicpark.co.kr/,http://www.clinicpark.co.kr/,1,HTTPS 미설정(http로만 접속),,2026-08-06,이메일 미발견
+5,1,체인지의원,서울,강남구,02-547-0809,http://www.changeclinic.co.kr/,http://www.changeclinic.co.kr/change/,2,HTTPS 미설정(http로만 접속),,2026-08-06,이메일 미발견
+5,1,파인드피부과의원,서울,강남구,02-511-6004,http://www.pindderma.com/,https://www.pindderma.com/member/popupPrivacy.php,1,viewport 없음 — 모바일 미대응,,2026-08-06,이메일 미발견
+5,1,포이즌의원,서울,강남구,02-569-7174,http://www.veinclinic.co.kr/,https://www.veinclinic.co.kr/member/privacy.html,0,푸터 카피라이트 2007 — 방치 인상,veinclinic@naver.com,2026-08-06,푸터/본문(mailto)
+5,1,포인트성형외과의원,서울,강남구,3442-0088,http://www.pointdr.co.kr/,http://www.pointdr.co.kr/theme/sekti/bbs/privacy.php,0,HTTPS 미설정(http로만 접속),,2026-08-06,이메일 미발견
+5,1,프린세스산부인과의원,서울,강남구,02-541-6864,http://www.swoman.co.kr/,http://www.swoman.co.kr/Module/Common/PopupPrivate_004.asp,2,HTTPS 미설정(http로만 접속),obgy2k@hanmail.net,2026-08-06,방침페이지
+5,1,한맘플러스재활의학과의원,서울,강남구,02-3452-9912,http://www.1mam.net/,http://www.1mam.net/content/privacy,1,HTTPS 미설정(http로만 접속),sunpharm@naver.com,2026-08-06,푸터/본문
+5,1,한송이영상의학과의원,서울,강남구,545-5584,http://www.drhanbreast.com/,http://www.drhanbreast.com/member/privacy.html,0,HTTPS 미설정(http로만 접속),,2026-08-06,이메일 미발견
+5,1,온누리피부과의원,서울,강동구,02-3426-9775,http://www.onnuriskin.co.kr/,http://www.onnuriskin.co.kr/Module/Common/PopupPrivate_004.asp,0,HTTPS 미설정(http로만 접속),ohfine@hanmail.net,2026-08-06,방침페이지
+5,1,쿨맨비뇨의학과의원,서울,강동구,02-471-7011,http://chunho.coolman.co.kr/,https://chunho.coolman.co.kr/bbs/content.php?co_id=privacy,2,푸터 카피라이트 2013 — 방치 인상,master@coolman.co.kr,2026-08-06,대표계정 형태 — 확인 권장 / 방침페이지
+5,1,굿모닝함운외과의원,서울,광진구,455-7175,http://www.gm7175.com/,http://www.gm7175.com/08sub/sub_02.php,0,HTTPS 미설정(http로만 접속),,2026-08-06,이메일 미발견
+5,1,굿아이금천이안과의원,서울,금천구,02-805-2700,http://www.goodeye.kr/,http://www.goodeye.kr/bbs/content.php?co_id=privacy,0,HTTPS 미설정(http로만 접속),,2026-08-06,이메일 미발견
+5,1,노원탑365의원,서울,노원구,02-935-0365,https://www.no1top365.com/,https://www.no1top365.com/?mode=privacy,2,모바일 가로스크롤 발생,,2026-08-06,이메일 미발견
+5,1,청담보드레의원,서울,노원구,02-6737-7776,https://www.cd-bodre.com/,https://www.cd-bodre.com/?mode=privacy,0,모바일 가로스크롤 발생,jsale31@naver.com,2026-08-06,푸터/본문
+5,1,서울청명안과의원,서울,동대문구,02-6953-1285,https://cmeyeclinic.co.kr/,https://cmeyeclinic.co.kr/?mode=privacy,0,모바일 가로스크롤 발생,,2026-08-06,이메일 미발견
+5,1,오아로피부과의원 청량리,서울,동대문구,02-967-1064,http://oarocnn.com/,https://www.oarocnn.com/oaro/ko/policy/privacy-policy,0,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨,contact@plask.ai,2026-08-06,대표계정 형태 — 확인 권장 / 방침페이지(mailto)
+5,1,프라임의원,서울,동작구,02-826-2080,http://primeskin.co.kr/,http://www.primeskin.co.kr/page/privacy.php,0,HTTPS 미설정(http로만 접속),,2026-08-06,이메일 미발견
+5,1,하정한정형외과의원,서울,동작구,02-812-2211,http://www.jointha.co.kr/,https://jointha.co.kr/%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EB%B0%A9%EC%B9%A8,0,모바일 가로스크롤 발생,,2026-08-06,이메일 미발견
+5,1,셀린의원,서울,마포구,02-2039-6155,https://www.cellinclinic4.com/,https://www.cellinclinic4.com/member/popupPrivacy.php,2,viewport 없음 — 모바일 미대응,,2026-08-06,이메일 미발견
+5,1,에스앤유피부과의원,서울,마포구,02-706-5252,http://www.allskin.co.kr/,https://www.allskin.co.kr/member/policy.jsp,1,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨,allskin2024@naver.com,2026-08-06,방침페이지
+5,1,연세지움피부과의원,서울,마포구,02-333-0606,http://www.ziumskin.com/,http://www.ziumskin.com/#,1,HTTPS 미설정(http로만 접속),,2026-08-06,이메일 미발견
+5,1,유리에성형외과의원,서울,마포구,02-6956-6279,http://www.yurieps.com/,http://www.yurieps.com/privacy,1,HTTPS 미설정(http로만 접속),,2026-08-06,이메일 미발견
+5,1,홍대고운세상피부과의원,서울,마포구,3143-3822,http://www.beautyforever.co.kr/,https://www.beautyforever.co.kr/etc/privacy.php,3,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨,,2026-08-06,이메일 미발견
+5,1,오에스티의원,서울,서대문구,02-322-7570,http://www.ostclinic.co.kr/,https://www.ostclinic.co.kr/privacy,5,모바일 가로스크롤 발생,landt777@naver.com,2026-08-06,푸터/본문
+5,1,강남다움의원,서울,서초구,02-6557-7701,https://gd-clinic.com/,https://gd-clinic.com/455284985,0,모바일 가로스크롤 발생,,2026-08-06,이메일 미발견
+5,1,강남리슬림의원,서울,서초구,02-536-3962,http://reslim.co.kr/,https://reslim.co.kr/,1,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨,,2026-08-06,이메일 미발견
+5,1,강남헤라성형외과의원,서울,서초구,,https://www.gnhera.com/,https://www.gnhera.com/content/%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4-%EC%B2%98%EB%A6%AC%EB%B0%A9%EC%B9%A8/,1,모바일 가로스크롤 발생,,2026-08-06,이메일 미발견
+5,1,더(the)아름다운의원,서울,서초구,02-466-8875,http://www.beautifulclinic.net/,https://www.beautifulclinic.net/,2,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨,,2026-08-06,이메일 미발견
+5,1,디라이트외과의원,서울,서초구,,https://www.delightsurgery.co.kr/,https://www.delightsurgery.co.kr/member/popupPrivacy.php,1,viewport 없음 — 모바일 미대응,,2026-08-06,이메일 미발견
+5,1,리참성형외과의원,서울,서초구,,https://www.lcps.co.kr/,https://www.lcps.co.kr/#;,2,모바일 가로스크롤 발생,,2026-08-06,이메일 미발견
+5,1,브라운아이의원,서울,서초구,3477-7774,http://www.browneye.co.kr/,http://www.browneye.co.kr/?act=info.privacy,0,HTTPS 미설정(http로만 접속),hihansen@hanmail.net,2026-08-06,푸터/본문(mailto)
+5,1,셀린의원,서울,서초구,02-532-2550,https://www.cellinclinic9.com/,https://www.cellinclinic9.com/member/popupPrivacy.php,2,viewport 없음 — 모바일 미대응,,2026-08-06,이메일 미발견
+5,1,영영영의원,서울,서초구,,https://www.000clinic.com/,https://www.000clinic.com/member/privacy.html,0,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨,mso@000clinic.com,2026-08-06,푸터/본문
+5,1,유픽의원,서울,서초구,02-6160-5000,https://gn.upicclinic.com/,https://gn.upicclinic.com/sub/privacy,2,푸터 카피라이트 2022 — 방치 인상,,2026-08-06,이메일 미발견
+5,1,이춘봉피부과의원,서울,서초구,594-0338,http://www.lcbskin.com/,https://lcbskin.com/policies/privacy-policy,17,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨,help@lcbgroup.com,2026-08-06,대표계정 형태 — 확인 권장 / 푸터/본문
+5,1,카라멜성형외과의원,서울,서초구,02-543-6010,http://www.eightps.com/,https://www.eightprs.com/page/privacy,2,푸터 카피라이트 2020 — 방치 인상,,2026-08-06,공용/제작사 의심 제외: eight025152550@gmail.com / 방침페이지
+5,1,클레이성형외과의원,서울,서초구,02-516-1368,http://www.drclay.co.kr/,http://www.drclay.co.kr/Privacy,0,HTTPS 미설정(http로만 접속),,2026-08-06,이메일 미발견
+5,1,돈암고운세상피부과의원,서울,성북구,926-1007,http://www.beautyforever.co.kr/,https://www.beautyforever.co.kr/etc/privacy.php,3,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨,,2026-08-06,이메일 미발견
+5,1,연세에이앤비피부과의원,서울,송파구,02-417-7500,https://www.anbskin.com/,https://anbskin.com/2023/bbs/content.php?co_id=privacy,1,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨,understnd@hanmail.net,2026-08-06,푸터/본문
+5,1,예솜의원,서울,송파구,02-3426-2575,http://www.yesomclinic.co.kr/,http://www.yesomclinic.co.kr/?mode=privacy,3,HTTPS 미설정(http로만 접속),,2026-08-06,이메일 미발견
+5,1,잠실고운세상피부과의원,서울,송파구,02-3434-0800,http://www.beautyforever.co.kr/,https://www.beautyforever.co.kr/etc/privacy.php,3,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨,,2026-08-06,이메일 미발견
+5,1,목동고운세상피부과의원,서울,양천구,02-2607-4378,http://www.beautyforever.co.kr/,https://www.beautyforever.co.kr/etc/privacy.php,3,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨,,2026-08-06,이메일 미발견
+5,1,밝은미래산부인과의원,서울,양천구,02-2687-3555,http://www.brightfuture.kr/,http://www.brightfuture.kr/bbs/content.php?co_id=privacy,1,HTTPS 미설정(http로만 접속),,2026-08-06,이메일 미발견
+5,1,본피부과의원,서울,양천구,02-2062-8700,http://bonskinclinic.com/,http://bonskinclinic.com/sub/privacy.php,1,HTTPS 미설정(http로만 접속),,2026-08-06,이메일 미발견
+5,1,아이피부과의원,서울,양천구,02-2647-7588,http://whiteipl.com/,https://book.whiteipl.com/index.php/privacy-policy/,0,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨,,2026-08-06,이메일 미발견
+5,1,다미의원,서울,영등포구,02-761-1188,http://www.damiskin.com/,http://www.damiskin.com/mem/privacy.php,0,HTTPS 미설정(http로만 접속),,2026-08-06,이메일 미발견
+5,1,라마르의원,서울,영등포구,02-2634-7585,http://www.young-lamar.co.kr/,http://www.young-lamar.co.kr/page/privacy.php,0,HTTPS 미설정(http로만 접속),,2026-08-06,이메일 미발견
+5,1,안톤의원,서울,영등포구,02-6956-9547,https://www.antoneclinic.co.kr/,https://www.antoneclinic.co.kr/privacy,0,모바일 가로스크롤 발생,antoneclinic@naver.com,2026-08-06,방침페이지
+5,1,여의도라이프케어내과의원,서울,영등포구,02-785-1000,https://lchealth.co.kr/,https://lchealth.co.kr/%EC%9D%B4%EC%9A%A9%EC%95%88%EB%82%B4,4,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨,lifecaremedical@naver.com,2026-08-06,방침페이지
+5,1,타브로항외과의원,서울,영등포구,02-2632-7175,http://www.tabro.net/,http://www.tabro.net/?menu=46,1,HTTPS 미설정(http로만 접속),djkoogs@naver.com,2026-08-06,방침페이지
+5,1,이레피부과의원,서울,용산구,02-6949-3705,http://jirehderma.co.kr/,http://jirehderma.co.kr/#open_pop,2,HTTPS 미설정(http로만 접속),jirehderma7@naver.com ; jirehderma7@gmail.com,2026-08-06,복수 발견 — 하나 선택 필요 / 푸터/본문
+5,1,연세에스웰피부과의원,서울,종로구,02-2075-7500,http://www.swellskin.com/,https://www.swellskin.com/shop_info/privacy.htm,0,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨,,2026-08-06,이메일 미발견
+5,1,리뉴미피부과의원,서울,중구,02-2275-5085,http://www.rnmeskin.com/,https://rnmeskin.com/#,1,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨,,2026-08-06,이메일 미발견
+5,1,리엘르의원,서울,중구,02-3789-2086,https://md.re-ele.com/,https://md.re-ele.com/member/popupPrivacy.php,2,viewport 없음 — 모바일 미대응,,2026-08-06,이메일 미발견
+5,1,명동고운세상피부과의원,서울,중구,02-755-5411,http://www.beautyforever.co.kr/,https://www.beautyforever.co.kr/etc/privacy.php,3,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨,,2026-08-06,이메일 미발견
+5,1,셀린의원명동점,서울,중구,02-3789-0824,https://www.cellinclinic8.com/,https://www.cellinclinic8.com/member/popupPrivacy.php,2,viewport 없음 — 모바일 미대응,,2026-08-06,이메일 미발견
+5,1,엠제이(MJ)올피부과의원,서울,중구,02-777-8275,http://www.beautyforever.co.kr/,https://www.beautyforever.co.kr/etc/privacy.php,3,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨,,2026-08-06,이메일 미발견
+5,1,유앤아이의원명동점,서울,중구,02-6956-6021,https://www.mduni114.co.kr/,https://www.mduni114.co.kr/info/,0,모바일 가로스크롤 발생,,2026-08-06,공용/제작사 의심 제외: mdvision@nate.com / 방침페이지
+5,1,헤이데이의원명동점,서울,중구,02-6263-0302,https://heydayclinic2.com/,https://heydayclinic2.com/?mode=privacy,0,tel: 링크 없음 — 휴대폰에서 전화 연결 안 됨,heydayclinic02@heydayclinic2.com,2026-08-06,푸터/본문
